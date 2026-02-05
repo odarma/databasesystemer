@@ -1,501 +1,501 @@
-﻿pasient_id;fornavn;etternavn;kjonn;fodselsdag;sted;allergier;hoyde;vekt
-1;Donald;Waterfield;M;1963-02-12;Barrie;NULL;156;65
-2;Mickey;Baasha;M;1963-02-13;Dundas;Sulfa;185;76
-3;Jiji;Sharma;M;1963-02-14;Hamilton;Penicillin;194;106
-4;Blair;Diaz;M;1963-02-15;Hamilton;NULL;191;104
-5;Charles;Wolfe;M;1963-02-16;Orillia;Penicillin;47;10
-6;Sue;Falcon;F;1963-02-17;Ajax;Penicillin;43;5
-7;Thomas;ONeill;M;1963-02-18;Burlington;NULL;180;117
-8;Sonny;Beckett;M;1963-02-19;Port Hawkesbury;NULL;174;105
-9;Sister;Spitzer;F;1963-02-20;Toronto;Penicillin;173;95
-10;Cedric;Coltrane;M;1963-02-21;Toronto;NULL;157;61
-11;Hank;Spencer;M;1963-02-22;Peterborough;NULL;158;74
-12;Sara;di Marco;F;1963-02-23;Hamilton;NULL;145;46
-13;Daphne;Seabright;F;1963-02-24;Ancaster;Codeine;146;77
-14;Rick;Bennett;M;1963-02-25;Ancaster;Penicillin;220;95
-15;Amy;Leela;F;1963-02-26;Hamilton;NULL;172;72
-16;Woody;Bashir;M;1963-02-27;Barrie;Penicillin;153;59
-17;Tom;Halliwell;M;1963-02-28;Hamilton;Ragweed;179;114
-18;Rachel;Winterbourne;F;1963-03-01;Hamilton;NULL;163;95
-19;John;West;M;1963-03-02;Oakville;NULL;138;61
-20;Jon;Doggett;M;1963-03-03;Hamilton;NULL;194;116
-21;Angel;Edwards;F;1963-03-04;Brantford;NULL;176;106
-22;Brodie;Beck;F;1963-03-05;Carlisle;NULL;157;66
-23;Beanie;Foster;F;1963-03-06;Ancaster;Sulfa;154;75
-24;Nino;Andrews;M;1963-03-07;Hamilton;Peanuts;186;85
-25;John;Farley;M;1963-03-08;Hamilton;Gluten;213;104
-26;Nea;Kobayakawa;F;1963-03-09;Toronto;NULL;147;62
-27;Laura;Halliwell;F;1963-03-10;Brantford;NULL;146;76
-28;Lucille;Maureen;F;1963-03-11;Hamilton;NULL;184;87
-29;Jim;Thomas;M;1963-03-12;Ottawa;Penicillin;173;70
-30;Roderick;Payne;M;1963-03-13;Halifax;NULL;58;17
-31;Sam;Threep;M;1963-03-14;Hamilton;Sulpha;199;141
-32;Bertha;Crowley;F;1963-03-15;Delhi;NULL;125;39
-33;Roland;Edge;M;1963-03-16;Brantford;Peanut Oil;199;134
-34;Don;Wiggum;M;1963-03-17;Hamilton;NULL;189;91
-35;Anthony;Maxwell;M;1963-03-18;Oakville;NULL;92;37
-36;James;Sullivan;M;1963-03-19;Delhi;Topical Anaesthesia;139;68
-37;Anne;Marlowe;F;1963-03-20;Pickering;NULL;165;88
-38;Kelly;Hamilton;F;1963-03-21;Stoney Creek;Penicillin;84;36
-39;Charles;Andonuts;M;1963-03-22;Hamilton;NULL;62;15
-40;Temple;Russert;F;1963-03-23;Hamilton;Hay Fever;166;102
-41;Don;Edwards;M;1963-03-24;Hamilton;NULL;215;118
-42;Alice;Donovan;F;1963-03-25;Hamilton;Penicillin;167;54
-43;Stone;Cutting;M;1963-03-26;Hamilton;Codeine;110;42
-44;Neil;Allan;M;1963-03-27;Cambridge;Penicillin;203;123
-45;Cross;Gordon;M;1963-03-28;Ancaster;NULL;125;53
-46;Phoebe;Bigelow;F;1963-03-29;Thunder Bay;Penicillin;183;64
-47;Harry;Kuramitsu;M;1963-03-30;Hamilton;NULL;215;95
-48;Gary;Ramotswe;M;1963-03-31;Hamilton;NULL;178;101
-49;Phil;Chester;M;1963-04-01;Hamilton;Penicillin;199;112
-50;Phil;Beckett;M;1963-04-02;Ottawa;NULL;83;26
-51;Gala;Littlefield;F;1963-04-03;Brantford;NULL;112;41
-52;Gregory;James;M;1963-04-04;Hamilton;NULL;195;135
-53;Bruno;Wolfe;M;1963-04-05;Ottawa;Sulfa;145;70
-54;Molly;Jackson;F;1963-04-06;Carlisle;NULL;159;48
-55;Rose;Spellman;F;1963-04-07;Hamilton;NULL;164;59
-56;Will;Manu;M;1963-04-08;Burlington;NULL;154;69
-57;Woody;Riviera;M;1963-04-09;Kingston;Penicillin;192;109
-58;Georgette;Gallagher;F;1963-04-10;Elmira;Ragweed;170;93
-59;Rocky;Donahue;M;1963-04-11;Hamilton;NULL;190;110
-60;Roland;Murphy;M;1963-04-12;Hamilton;Sulfa Drugs;153;71
-61;Mary;Spellman;F;1963-04-13;Stoney Creek;NULL;178;92
-62;Shiro;Whale;M;1963-04-14;Hamilton;Penicillin;195;117
-63;Calleigh;Dean;F;1963-04-15;Hamilton;Penicillin;175;56
-64;Didi;Dean;F;1963-04-16;Milton;NULL;182;110
-65;Haiku;Alpert;M;1963-04-17;Paris;Penicillin;69;22
-66;Joseph;Justin;M;1963-04-18;Toronto;Penicillin;140;71
-67;Catherine;Minoru;F;1963-04-19;Victoria;Sulphur;184;100
-68;Danny;Hardbroom;M;1963-04-20;Niagara Falls;Penicillin;183;105
-69;Lily;Crusher;F;1963-04-21;Burlington;NULL;185;82
-70;Billy;Jones;M;1963-04-22;Hamilton;NULL;85;29
-71;Vicki;Babbling;F;1963-04-23;Stoney Creek;NULL;180;64
-72;Lily;Vargas;F;1963-04-24;Hamilton;Codeine;195;102
-73;Agatha;Sawyer;F;1963-04-25;Ancaster;Penicillin;155;83
-74;Temple;Marlowe;F;1963-04-26;Hamilton;NULL;135;65
-75;Kazuki;Ranall;M;1963-04-27;Hamilton;Penicillin;139;63
-76;Jackie;Lovegood;F;1963-04-28;Hamilton;NULL;157;56
-77;Mike;Mars;M;1963-04-29;Hamilton;Penicillin;123;46
-78;Natsumi;Weasley;F;1963-04-30;Thunder Bay;Valporic Acid;157;66
-79;Reginald;Jackson;M;1963-05-01;Toronto;Penicillin;182;101
-80;Ernest;Clarkson;M;1963-05-02;Hamilton;NULL;163;66
-81;Gytha;Banzai;F;1963-05-03;Hamilton;NULL;182;75
-82;Matt;Goergen;M;1963-05-04;Hamilton;Penicillin;130;66
-83;Nick;Walker;M;1963-05-05;Hamilton;NULL;164;77
-84;Jen;Jacobs;F;1963-05-06;Hamilton;NULL;156;79
-85;Phoebe;Bell;F;1963-05-07;Hepworth;Micropore Tape;169;115
-86;Ann;Blocksberg;F;1963-05-08;Hamilton;Penicillin;162;101
-87;Frank;Capone;M;1963-05-09;Hamilton;NULL;166;65
-88;Caroline;Smart;F;1963-05-10;Hamilton;NULL;145;64
-89;Sam;Spratt;M;1963-05-11;Hamilton;NULL;195;100
-90;Prue;Cleever;F;1963-05-12;Odessa;Sulfa Drugs;149;119
-91;Zoe;Miller;F;1963-05-13;Hamilton;Honey;184;103
-92;Mendy;Strate;M;1963-05-14;Stoney Creek;NULL;206;111
-93;Delores;Bones;F;1963-05-15;Hamilton;NULL;154;50
-94;Hal;Riviera;M;1963-05-16;Kingston;Tylenol;194;110
-95;Gene;Edwards;M;1963-05-17;Hamilton;Sulphate;199;96
-96;Jonny;Christian;M;1963-05-18;Kingston;NULL;182;77
-97;Emmett;Erin;M;1963-05-19;Hamilton;Penicillin;126;39
-98;Harry;Soprano;M;1963-05-20;Beamsville;NULL;85;26
-99;Richard;Davis;M;1963-05-21;Toronto;NULL;148;75
-100;Olwyn;Chino;M;1963-05-22;Hamilton;Tetracycline;146;70
-101;Annie;Cox;F;1963-05-23;Hamilton;NULL;160;83
-102;John;Stape;M;1963-05-24;Hamilton;NULL;214;118
-103;Casanova;Dresden;M;1963-05-25;Milton;Penicillin;150;74
-104;Alice;Taylor;F;1963-05-26;Hamilton;NULL;179;109
-105;Freddie;Landsman;M;1963-05-27;Brockville;NULL;152;73
-106;Moe;Provenza;M;1963-05-28;Cambridge;NULL;183;72
-107;Gillian;Dyson;F;1963-05-29;Hamilton;Penicillin;164;86
-108;Beanie;Nelson;M;1963-05-30;Beamsville;Tylenol;162;69
-109;William;Templin;M;1963-05-31;Highland;NULL;152;72
-110;Leyla;Dedede;F;1963-06-01;Hamilton;Sulfa;166;99
-111;Joyce;Bosch;F;1963-06-02;Brantford;NULL;65;17
-112;David;Beresford;M;1963-06-03;Halifax;NULL;152;87
-113;Shirley;Havers;F;1963-06-04;Hamilton;NULL;145;66
-114;Norman;Gregory;M;1963-06-05;Calgary;Eggs;125;53
-115;Briareos;Hayes;M;1963-06-06;Sarnia;Morphine;189;138
-116;Mable;Taggart;F;1963-06-07;Hamilton;NULL;181;87
-117;Chen;Baasha;M;1963-06-08;Cambridge;NULL;193;140
-118;Indiana;Kingsley;M;1963-06-09;Hamilton;Penicillin;140;67
-119;Henry;Hernandez;M;1963-06-10;Hamilton;NULL;163;55
-120;Teddy;McGrath;M;1963-06-11;Hamilton;NULL;168;75
-121;Salvatore;Neutron;M;1963-06-12;Burlington;Codeine;186;106
-122;Harry;Graf;M;1963-06-13;Hamilton;Penicillin;134;68
-123;Stanley;Bean;M;1963-06-14;Toronto;NULL;172;75
-124;Derek;Burbank;M;1963-06-15;Brantford;Penicillin;203;125
-125;Nea;Brocklehurst;F;1963-06-16;Hamilton;Penicillin;38;5
-126;King;Arden;M;1963-06-17;Cambridge;Seafood;137;84
-127;Lyan;Russo;M;1963-06-18;Toronto;Tetracycline;180;65
-128;Thomas;Fortune;M;1963-06-19;Carisle;Cats;170;114
-129;Priestley;DAmico;M;1963-06-20;Milton;Penicillin;152;69
-130;Arnold;Love;M;1963-06-21;Toronto;NULL;200;116
-131;Thursday;Ernst;F;1963-06-22;Whitby;Sulfa;172;53
-132;Haiku;Shaft;M;1963-06-23;Barrie;NULL;155;55
-133;Mattie;Harkness;F;1963-06-24;Timmins;NULL;159;60
-134;Alexandra;Robins;F;1963-06-25;Burlington;Sulfa;179;84
-135;Vin;Smyth;M;1963-06-26;Hamilton;Codeine;207;113
-136;Kenny;Skelton;M;1963-06-27;Calgary;NULL;187;118
-137;Jackie;Dean;M;1963-06-28;Victoria;NULL;136;58
-138;Fiz;Ozaki;F;1963-06-29;Hamilton;Penicillin;180;91
-139;Robbie;Wilde;M;1963-06-30;Burlington;NULL;164;70
-140;Amy;Fuhrey;F;1963-07-01;Oshawa;Penicillin;148;49
-141;Lou;Vincent;M;1963-07-02;Selkirk;Penicillin;143;56
-142;Elvis;Maroni;M;1963-07-03;Hamilton;Codeine;139;66
-143;Mike;Madison;M;1963-07-04;Carlisle;NULL;191;110
-144;Reginald;Cavor;M;1963-07-05;Red Deer;Penicillin;163;86
-145;Kurt;Turtle;M;1963-07-06;Hamilton;NULL;148;68
-146;Scott;Corinthos;M;1963-07-07;Hamilton;NULL;198;123
-147;Agnes;Duckworth;F;1963-07-08;Ancaster;Penicillin;178;76
-148;Keziah;Brearly;F;1963-07-09;Hamilton;Penicillin;163;102
-149;David;Redfield;M;1963-07-10;Burlington;Dairy Products;166;89
-150;Sonny;Waterman;M;1963-07-11;Hamilton;NULL;173;89
-151;Jeff;Tyrell;M;1963-07-12;Hamilton;NULL;167;118
-152;Charmian;Hardy;F;1963-07-13;Hamilton;NULL;155;93
-153;Jefferson;Hally;M;1963-07-14;Toronto;Penicillin;155;89
-154;Daneel;Carpenter;M;1963-07-15;Burlington;Penicillin;185;101
-155;Kazuki;Scarpetta;M;1963-07-16;Barrie;Penicillin;170;78
-156;Sarah;Newbury;F;1963-07-17;Athens;NULL;75;22
-157;Robert;Page;M;1963-07-18;Stoney Creek;NULL;177;117
-158;Naoto;Clover;F;1963-07-19;Brantford;Codeine;120;38
-159;Noike;Maloney;F;1963-07-20;Hamilton;Strawberries;147;60
-160;Miranda;Delacour;F;1963-07-21;Stoney Creek;Valporic Acid;163;88
-161;Marty;Carrington;M;1963-07-22;Sarnia;Feathers;145;68
-162;Laura;Dee;F;1963-07-23;Windsor;NULL;148;64
-163;Mona;Heterodyne;F;1963-07-24;Hamilton;NULL;146;48
-164;Valentin;Mackey;M;1963-07-25;Ottawa;NULL;181;78
-165;Emmett;Colbock;M;1963-07-26;Hamilton;NULL;217;89
-166;Frank;Carrow;M;1963-07-27;Hamilton;ASA;58;15
-167;Alex;Fox;F;1963-07-28;Selkirk;NULL;170;98
-168;Nina;Peroni;F;1963-07-29;Peterborough;NULL;151;69
-169;Temple;LoPresti;F;1963-07-30;Hargersville;NULL;146;45
-170;Wanda;Redfield;F;1963-07-31;Hamilton;Eggs;169;111
-171;Jack;Stewart;M;1963-08-01;Brantford;Topical Anaesthesia;101;35
-172;Maria;Bluenight;F;1963-08-02;Ancaster;NULL;147;71
-173;Sarah;Cooper;F;1963-08-03;Athens;NULL;154;63
-174;Samus;Dalton;F;1963-08-04;Hamilton;NULL;149;50
-175;Melody;Frye;F;1963-08-05;Hamilton;NULL;132;44
-176;Brooke;Bowles;F;1963-08-06;Toronto;Bee Stings;149;102
-177;Irene;Casswell;F;1963-08-07;Burlington;Codeine;117;25
-178;David;Bustamonte;M;1963-08-08;Carisle;Peanuts;103;37
-179;Phil;Uzuki;M;1963-08-09;Saskatoon;Penicillin;187;124
-180;Michael;Henderson;M;1963-08-10;Paris;Penicillin;131;57
-181;Nancy;Costello;F;1963-08-11;Dundas;Penicillin;183;93
-182;Bernard;Karidian;M;1963-08-12;Hamilton;NULL;168;62
-183;Doris;Kent;F;1963-08-13;Toronto;NULL;161;49
-184;Hoshi;Johnson;F;1963-08-14;Cambridge;Penicillin;179;106
-185;Didi;Del Lago;F;1963-08-15;Hargersville;ASA;185;94
-186;Doyle;Starr;M;1963-08-16;Burlington;Wheat;191;121
-187;Guido;Lonnegan;M;1963-08-17;Hamilton;ASA;153;79
-188;Cary;Henderson;M;1963-08-18;Hamilton;Bee Stings;167;98
-189;Joanna;Cooper;F;1963-08-19;Toronto;Codeine;181;107
-190;Gwenog;Hughes;F;1963-08-20;Burlington;NULL;162;87
-191;Freddy;Johnson;M;1963-08-21;Cambridge;Peanuts;172;118
-192;Christine;Lynch;F;1963-08-22;Brantford;Sulphur;181;77
-193;Magrat;Luca;F;1963-08-23;Stoney Creek;NULL;134;63
-194;Manick;Fletcher;M;1963-08-24;Ancaster;Strawberries;154;66
-195;Elizabeth;Rivers;F;1963-08-25;Beamsville;Penicillin;134;58
-196;Elvis;Kennedy;M;1963-08-26;Hamilton;Hay Fever;163;80
-197;Jack;Wesley;M;1963-08-27;Hamilton;NULL;197;106
-198;Janice;Renault;F;1963-08-28;Hamilton;ASA;177;66
-199;Lenny;Holmes;M;1963-08-29;Hamilton;NULL;160;86
-200;Sally;Smith;F;1963-08-30;Cambridge;Penicillin;163;62
-201;John;Pearle;M;1963-08-31;Bancroft;Valporic Acid;200;138
-202;Naoto;Stewart;F;1963-09-01;Sarnia;Penicillin;189;93
-203;Anita;Manu;F;1963-09-02;Dunton;NULL;161;110
-204;Wilfred;Vincent;M;1963-09-03;Burlington;NULL;200;114
-205;Maggie;Rajasthan;F;1963-09-04;Hamilton;NULL;167;54
-206;Martin;Schultz;M;1963-09-05;Brockville;NULL;214;84
-207;Matt;Celine;M;1963-09-06;London;NULL;185;115
-208;Maleen;Bagshot;F;1963-09-07;Toronto;Peanut Butter;135;53
-209;Winnie;Hale;F;1963-09-08;Hamilton;Penicillin;159;70
-210;Subhash;Vercetti;M;1963-09-09;Hamilton;NULL;152;69
-211;Carol;Wylie;F;1963-09-10;Toronto;Penicillin;170;100
-212;Gala;Cackle;F;1963-09-11;Hamilton;NULL;172;93
-213;Henry;Kennedy;M;1963-09-12;Windsor;Peanuts;136;59
-214;Abi;Nesmith;F;1963-09-13;Hamilton;Penicillin;146;59
-215;Corrado;McGrew;M;1963-09-14;Fruitland;Penicillin;139;79
-216;Miles;Mace;M;1963-09-15;Brantford;NULL;175;56
-217;Thomas;Duquesne;M;1963-09-16;Pickering;Sulpha;158;69
-218;Megan;Fidelma;F;1963-09-17;Burlington;NULL;157;71
-219;Jon;Guarnaccia;M;1963-09-18;Burlington;Morphine;189;123
-220;Ben;Seldon;M;1963-09-19;Hamilton;Almonds;143;58
-221;Barbara;Dresden;F;1963-09-20;Brantford;Codeine;113;41
-222;Tom;Kowalski;M;1963-09-21;Dunton;Tape;173;75
-223;Andy;Kammerer;M;1963-09-22;Hamilton;Penicillin;153;62
-224;Michael;Jeter;M;1963-09-23;Toronto;NULL;199;107
-225;Magnus;Ferrari;M;1963-09-24;Ottawa;NULL;169;99
-226;Silvio;Nayagan;M;1963-09-25;Barrie;Penicillin;206;108
-227;Ellen;Wylie;F;1963-09-26;Hamilton;NULL;168;77
-228;Daniel;Nelson;M;1963-09-27;Halifax;Wheat;150;72
-229;Leonard;Sacrimoni;M;1963-09-28;Walnut Grove;NULL;91;29
-230;Jessie;Meedhan;F;1963-09-29;Toronto;NULL;172;73
-231;Lester;Maximoff;M;1963-09-30;Hamilton;Penicillin;162;80
-232;Maggie;Price;F;1963-10-01;Hamilton;Penicillin;173;47
-233;Kay;Baldwin;F;1963-10-02;Beamsville;Codeine;164;64
-234;Shion;Rivers;M;1963-10-03;Toronto;Penicillin;38;5
-235;Robert;Brockman;M;1963-10-04;Toronto;NULL;161;91
-236;Art;Fane;M;1963-10-05;Toronto;Penicillin;88;26
-237;Margaret;MacNeil;F;1963-10-06;Timmins;NULL;171;114
-238;Padma;Thomas;F;1963-10-07;Brockville;Tylenol;132;39
-239;Mike;Johnson;M;1963-10-08;Hamilton;NULL;158;78
-240;Thomas;Matthews;M;1963-10-09;Highland;Tetracycline;216;108
-241;Belladonna;Thomas;F;1963-10-10;Caledonia;NULL;143;59
-242;Fancy;Rush;F;1963-10-11;Hamilton;Penicillin;156;68
-243;Willie;Dingle;M;1963-10-12;Toronto;ASA;154;84
-244;Aniki;Leotardo;M;1963-10-13;Misty;Penicillin;164;72
-245;Primo;Bushell;M;1963-10-14;Hamilton;NULL;187;101
-246;Logan;Tao;M;1963-10-15;Ancaster;NULL;209;104
-247;Pilar;Adler;F;1963-10-16;Hamilton;Walnuts;181;95
-248;Sarah;Daniels;F;1963-10-17;Hamilton;NULL;153;60
-249;Rita;Stephens;F;1963-10-18;Hamilton;NULL;172;57
-250;Tania;McGrath;F;1963-10-19;Toronto;NULL;166;112
-251;Joseph;Halifax;M;1963-10-20;Hamilton;Penicillin;180;103
-252;Bruce;Brown;M;1963-10-21;Paris;Codeine;74;18
-253;Angela;Loeb;F;1963-10-22;Hamilton;NULL;75;20
-254;Emil;McCrary;M;1963-10-23;Cambridge;Sulfa Drugs;149;81
-255;Dame;McCrary;F;1963-10-24;Hamilton;Peanuts;135;43
-256;Billie;Lowell;F;1963-10-25;Halifax;NULL;153;100
-257;Mitzy;Marquez;F;1963-10-26;Hamilton;Codeine;195;71
-258;Pilar;Languish;F;1963-10-27;Hamilton;Codeine;155;49
-259;Eloise;Evans;F;1963-10-28;Dundas;Hay Fever;155;62
-260;Mona;Brocklehurst;F;1963-10-29;Hamilton;Codeine;175;112
-261;Cordelia;Sugden;F;1963-10-30;Brantford;NULL;163;63
-262;Samantha;Heterodyne;F;1963-10-31;Toronto;NULL;154;68
-263;Jack;Valentine;M;1963-11-01;Hamilton;NULL;208;106
-264;Dante;Fuhrey;M;1963-11-02;Burlington;Penicillin;184;104
-265;Marvin;Dredd;M;1963-11-03;London;Sulfa;199;91
-266;Amy;Peth;F;1963-11-04;Whitby;NULL;171;70
-267;Bill;Capone;M;1963-11-05;Milgrove;NULL;166;82
-268;Lora;Shannon;F;1963-11-06;Ancaster;Salicylic Acid;163;105
-269;Lindsay;Anderson;F;1963-11-07;Burlington;Sulfa;164;73
-270;Lily;Hinkley;F;1963-11-08;Stoney Creek;Sulfa;181;103
-271;Hannah;MacLeod;F;1963-11-09;Delhi;NULL;162;100
-272;Shirley;Cork;F;1963-11-10;Hamilton;Walnuts;117;44
-273;Lora;McNulty;F;1963-11-11;Hamilton;Sulfa;133;73
-274;Bruno;Kaiba;M;1963-11-12;Hamilton;Codeine;177;117
-275;Roberta;Leone;F;1963-11-13;Hamilton;NULL;157;100
-276;Anna;Arroway;F;1963-11-14;Hamilton;Penicillin;184;104
-277;Vladimir;Hiatt;M;1963-11-15;Fruitland;Penicillin;175;105
-278;John;Papandrao;M;1963-11-16;Toronto;Penicillin;182;108
-279;Derek;Nappa;M;1963-11-17;Walnut Grove;Bee Stings;163;66
-280;Sandy;Crane;F;1963-11-18;North York;Penicillin;148;72
-281;Michael;ORourke;M;1963-11-19;Burlington;NULL;177;122
-282;Alex;Riviera;M;1963-11-20;Hamilton;NULL;189;121
-283;Richard;Bigelow;M;1963-11-21;Burlington;NULL;197;114
-284;Annie;Smart;F;1963-11-22;Vancouver;NULL;153;60
-285;Jack;Allgood;M;1963-11-23;Hamilton;NULL;126;53
-286;John;Crockett;M;1963-11-24;Athens;NULL;187;140
-287;Kima;Grissom;F;1963-11-25;Simcoe;Penicillin;140;53
-288;Katya;Fowler;F;1963-11-26;Burlington;NULL;161;57
-289;Roger;Sanders;M;1963-11-27;Dundas;Peanuts;157;70
-290;Angela;Clearwater;F;1963-11-28;Hamilton;NULL;177;99
-291;Naoko;Davenport;F;1963-11-29;Hamilton;NULL;169;105
-292;Serafina;Cooper;F;1963-11-30;Hamilton;Sulfa;78;22
-293;Mickey;Fisk;M;1963-12-01;Hamilton;NULL;161;57
-294;Malma;Burbage;F;1963-12-02;Burlington;Codeine;185;68
-295;Lyan;Heriot;M;1963-12-03;Hamilton;Penicillin;143;80
-296;Ted;Breaker;M;1963-12-04;Hamilton;Tape;186;76
-297;Bruno;Poppins;M;1963-12-05;Brantford;NULL;188;89
-298;Polly;Bennett;F;1963-12-06;Burlington;NULL;166;60
-299;Gary;Blake;M;1963-12-07;Hamilton;NULL;202;116
-300;Mycroft;McGee;M;1963-12-08;Ancaster;NULL;198;95
-301;Ricardo;Andrews;M;1963-12-09;Hamilton;NULL;177;112
-302;Paul;Vondopoulos;M;1963-12-10;Brantford;NULL;107;36
-303;Agnes;Parkinson;F;1963-12-11;Hamilton;Sulfa Drugs;158;47
-304;Jeffrey;Pascoe;M;1963-12-12;Hamilton;Sulfa;174;84
-305;Amane;Flute;F;1963-12-13;Hamilton;NULL;130;48
-306;Matt;Franchetti;M;1963-12-14;Burlington;Milk;157;60
-307;Terence;Gaucho;M;1963-12-15;Hamilton;Sulfa;192;102
-308;Rose;Dean;F;1963-12-16;Hamilton;NULL;182;113
-309;Harold;Buchanan;M;1963-12-17;Toronto;NULL;186;95
-310;Dirk;Lindley;M;1963-12-18;Burlington;Sulfa;191;109
-311;Nico;Mason;F;1963-12-19;Hamilton;NULL;156;96
-312;Peter;Tennan;M;1963-12-20;Burlington;NULL;167;83
-313;Claire;Sprockett;F;1963-12-21;Hamilton;NULL;170;67
-314;Otis;Munson;M;1963-12-22;Hamilton;Sulfa;152;77
-315;Winifred;Larkin;F;1963-12-23;Brantford;NULL;39;5
-316;Sam;Lester;M;1963-12-24;Hamilton;NULL;203;124
-317;Stella;Downs;F;1963-12-25;Stoney Creek;Micropore Tape;62;17
-318;Paul;Tau;M;1963-12-26;Hamilton;NULL;37;4
-319;John;McCrimmon;M;1963-12-27;Paris;NULL;195;135
-320;Morgan;Harkness;M;1963-12-28;Hamilton;Penicillin;140;68
-321;Melanie;Rook;F;1963-12-29;Toronto;NULL;162;44
-322;Phryne;Milbury;F;1963-12-30;Hamilton;Penicillin;162;63
-323;Lylah;Lockwood;F;1963-12-31;Hamilton;NULL;169;75
-324;Mary;Matthews;F;1964-01-01;Hamilton;NULL;163;67
-325;Ben;Stracci;M;1964-01-02;Port Hawkesbury;Wheat;185;85
-326;Carol;Lenox;F;1964-01-03;Pickering;NULL;183;111
-327;Jane;Mars;F;1964-01-04;Hamilton;Sulfa;171;76
-328;Bo;McCoy;M;1964-01-05;Hamilton;Penicillin;126;47
-329;Peter;Robert;M;1964-01-06;Hamilton;Penicillin;162;85
-330;Kim;Petrie;F;1964-01-07;Hamilton;NULL;153;77
-331;Jason;Hopper;M;1964-01-08;Hamilton;NULL;187;68
-332;Eva;Amanda;F;1964-01-09;Hamilton;Sulfa;167;123
-333;Harry;Sofer;M;1964-01-10;Hamilton;NULL;199;122
-334;Lucky;Batt;M;1964-01-11;Hamilton;Codeine;194;117
-335;Ruby;Cherrytree;F;1964-01-12;Hamilton;NULL;147;44
-336;Jim;Beckett;M;1964-01-13;Toronto;NULL;46;12
-337;Frank;Johnson;M;1964-01-14;Hamilton;Codeine;205;126
-338;Jane;Trivino;F;1964-01-15;Fruitland;Codeine;182;92
-339;Lloyd;Kennedy;M;1964-01-16;Hamilton;NULL;154;69
-340;Temple;Starsmore;F;1964-01-17;Toronto;Morphine;163;49
-341;Tuppence;Russo;F;1964-01-18;Beamsville;Codeine;152;57
-342;Eloise;Craven;F;1964-01-19;Hamilton;Codeine;161;57
-343;Max;Sternin;M;1964-01-20;Oakville;NULL;182;68
-344;Bryan;Skywalker;M;1964-01-21;Barrie;NULL;186;80
-345;Cordelia;Hanson;F;1964-01-22;Hamilton;NULL;155;68
-346;Stephen;Hajime;M;1964-01-23;Burlington;Sulfa Drugs;160;80
-347;Andromeda;Steiger;F;1964-01-24;Burlington;Penicillin Environmental;201;79
-348;Danny;Magnus;M;1964-01-25;Hamilton;NULL;54;13
-349;Ted;OHara;M;1964-01-26;Dunnville;NULL;130;47
-350;Elisa;Burbank;F;1964-01-27;Dunton;Wheat;177;117
-351;Ezri;Petrie;F;1964-01-28;Niagara Falls;NULL;180;83
-352;Peter;Rook;M;1964-01-29;Hamilton;NULL;163;88
-353;David;Schultz;M;1964-01-30;Hamilton;NULL;136;76
-354;Belinda;Leone;F;1964-01-31;Hamilton;Codeine;150;67
-355;Mike;Hammer;M;1964-02-01;Kingston;Penicillin;141;63
-356;Guy;Shimura;M;1964-02-02;Red River;NULL;172;83
-357;Vance;Weathers;M;1964-02-03;Hamilton;Codeine;130;47
-358;Mary;Knight;F;1964-02-04;Hamilton;Penicillin;76;21
-359;Joe;Snyder;M;1964-02-05;Hamilton;Penicillin;224;130
-360;Jadu;Principal;F;1964-02-06;Hamilton;Iodine;167;94
-361;Marshal;Hawkes;M;1964-02-07;Hamilton;NULL;152;57
-362;Noike;Jarvik;F;1964-02-08;Hamilton;NULL;174;98
-363;Cedric;Morgan;M;1964-02-09;Hamilton;NULL;197;86
-364;Robin;McCabe;F;1964-02-10;Grimsby;Codeine;173;65
-365;Angelica;Dalton;F;1964-02-11;Hamilton;NULL;148;49
-366;Vernon;Halliwell;M;1964-02-12;Hamilton;NULL;147;74
-367;Chuny;Jenkins;F;1964-02-13;Paris;NULL;146;38
-368;Claire;Barrie;F;1964-02-14;Hamilton;NULL;178;110
-369;Rocky;Kavanaugh;M;1964-02-15;Stoney Creek;Sulfa Drugs;195;108
-370;Juliet;Walker;F;1964-02-16;Hamilton;NULL;152;73
-371;Lydia;Carver;F;1964-02-17;Victoria;NULL;176;87
-372;Don;Vallance;M;1964-02-18;Hamilton;Penicillin;139;73
-373;Valerie;Fraser;F;1964-02-19;Brantford;Penicillin;139;74
-374;Melinda;Boxer;F;1964-02-20;Cambridge;NULL;182;103
-375;Jack;Renault;M;1964-02-21;Hamilton;Penicillin;142;69
-376;Rose;Morris;F;1964-02-22;Grimsby;Codeine;176;84
-377;Lew;Vondopoulos;M;1964-02-23;Hamilton;NULL;156;84
-378;Henrieta;ORourke;F;1964-02-24;Carisle;Sulfa;149;54
-379;Barney;Atwater;M;1964-02-25;Hamilton;NULL;140;69
-380;Laura;March;F;1964-02-26;Vancouver;NULL;187;114
-381;Jon;Landsman;M;1964-02-27;North York;NULL;198;131
-382;Truman;Lockwood;M;1964-02-28;Hamilton;Almonds;168;72
-383;Narcissa;Shore;F;1964-02-29;Hamilton;Penicillin;133;72
-384;Truman;Kennedy;M;1964-03-01;Timmins;NULL;185;119
-385;Ernest;Poirot;M;1964-03-02;Hamilton;NULL;155;91
-386;Adam;Stillman;M;1964-03-03;Hamilton;Shellfish;162;82
-387;Vicki;Jonas;F;1964-03-04;Hamilton;NULL;96;20
-388;Kurt;Beltzer;M;1964-03-05;Hamilton;NULL;190;103
-389;Abe;Osborne;M;1964-03-06;Hamilton;Almonds;190;104
-390;Violet;Arden;F;1964-03-07;Burlington;ASA;146;50
-391;Kingo;Frye;M;1964-03-08;Carisle;NULL;170;63
-392;Walter;Harkness;M;1964-03-09;Brampton;Penicillin;179;65
-393;Herr;Hinkley;M;1964-03-10;Hamilton;ASA;194;98
-394;Buzz;Vajda;M;1964-03-11;Stoney Creek;NULL;137;62
-395;James;Ichi;M;1964-03-12;Hamilton;Sulfa;196;89
-396;Rick;Mowbray;M;1964-03-13;Ajax;NULL;201;123
-397;Leona;Hernandez;F;1964-03-14;Hamilton;NULL;167;58
-398;Goldie;Tennan;F;1964-03-15;Burlington;Penicillin;160;59
-399;Alice;Bennett;F;1964-03-16;Hamilton;Codeine;162;91
-400;Cordelia;Belden;F;1964-03-17;Hamilton;NULL;45;10
-401;Kate;Mason;F;1964-03-18;Bancroft;Sulpha;175;67
-402;Tony;Smith;M;1964-03-19;Sarnia;Penicillin;214;95
-403;Miles;McClure;M;1964-03-20;Hamilton;Penicillin;210;116
-404;Grace;Yurinov;F;1964-03-21;Hamilton;NULL;184;121
-405;Katya;Sato;F;1964-03-22;Orillia;NULL;141;43
-406;Samantha;Dobbs;F;1964-03-23;Hamilton;Penicillin;49;11
-407;Jessica;Kent;F;1964-03-24;Hamilton;NULL;159;110
-408;Victoire;Jonas;F;1964-03-25;Milton;Penicillin;163;97
-409;Julius;Montalbano;M;1964-03-26;Delhi;NULL;127;60
-410;Lori;Warner;F;1964-03-27;Hamilton;Penicillin;184;70
-411;O-Ren;Baldi;F;1964-03-28;Niagara Falls;NULL;115;34
-412;Simon;Dresden;M;1964-03-29;Stoney Creek;Valporic Acid;220;125
-413;Lonnie;Bulstrode;M;1964-03-30;Kingston;Penicillin;80;27
-414;Rob;Mackey;M;1964-03-31;Stoney Creek;Tylenol;187;84
-415;John;Hill;M;1964-04-01;Hamilton;Sulfa;195;104
-416;Janice;John;F;1964-04-02;Troy;Sulfa;163;61
-417;Elizabeth;Spencer;F;1964-04-03;Stoney Creek;NULL;160;63
-418;Bertha;Martin;F;1964-04-04;Orangeville;NULL;131;69
-419;Walburga;Masaki;F;1964-04-05;Brantford;NULL;151;73
-420;Velu;Galv�n;M;1964-04-06;Walnut Grove;NULL;59;15
-421;Eben;Quest;M;1964-04-07;Hamilton;NULL;143;78
-422;Penelope;Taggart;F;1964-04-08;Hamilton;Penicillin;131;69
-423;Vicki;Cenva;F;1964-04-09;Hamilton;Penicillin;167;94
-424;Richard;Wyatt;M;1964-04-10;Marcam;NULL;188;101
-425;Barney;Smith;M;1964-04-11;Hamilton;NULL;162;68
-426;Patricia;Rose;F;1964-04-12;Hamilton;NULL;179;92
-427;Colleen;Scott;F;1964-04-13;Hamilton;NULL;134;66
-428;Ann;Flowerstink;F;1964-04-14;Paris;NULL;171;101
-429;John;Grissom;M;1964-04-15;Waterford;NULL;215;126
-430;Grant;Halliwell;M;1964-04-16;Marcam;Penicillin;175;73
-431;Miles;Quince;M;1964-04-17;Hamilton;Tylenol;166;127
-432;Jeff;Powers;M;1964-04-18;Pickering;ASA;150;83
-433;Adam;Hecatonchires;M;1964-04-19;Hamilton;Penicillin;162;75
-434;Nicky;Shimura;M;1964-04-20;London;NULL;92;39
-435;Pamela;Belden;F;1964-04-21;Ancaster;Hay Fever;108;31
-436;Gil;Sigel;M;1964-04-22;Burlington;NULL;146;70
-437;Gordon;Swift;M;1964-04-23;Winona;NULL;192;115
-438;Julie;Bonasera;F;1964-04-24;Burlington;Penicillin;174;77
-439;Licio;Lupertazzi;M;1964-04-25;Stoney Creek;Penicillin;127;88
-440;Pablo;Treskovna;M;1964-04-26;Hamilton;NULL;157;60
-441;Winnie;Clock;F;1964-04-27;Barrie;Penicillin;110;37
-442;Mickey;Heath;M;1964-04-28;Brantford;Penicillin;176;99
-443;Lisa;Baasha;F;1964-04-29;Delhi;NULL;174;71
-444;Marvin;Jaffe;M;1964-04-30;Orangeville;NULL;215;112
-445;Wayne;Neutron;M;1964-05-01;Hamilton;Penicillin;170;92
-446;Jane;Goodspeed;F;1964-05-02;Barrie;NULL;162;66
-447;Kiriko;Baasha;F;1964-05-03;Ajax;NULL;169;64
-448;Wellington;Torres;M;1964-05-04;Guelph;Penicillin;192;122
-449;Claudia;Vimes;F;1964-05-05;Hamilton;Seafood;140;65
-450;Celestina;Bonasera;F;1964-05-06;Hamilton;Acetaminophen;151;46
-451;Peter;PiNeiro;M;1964-05-07;Dunnville;NULL;123;44
-452;Vincent;Blackwood;M;1964-05-08;Hamilton;Penicillin;165;71
-453;Milo;Holliwell;M;1964-05-09;Red River;Penicillin;166;74
-454;Samantha;Dean;F;1964-05-10;Hamilton;Sulfa;151;76
-455;Mercedes;Heat;F;1964-05-11;Hamilton;NULL;160;62
-456;Beppe;Sigel;M;1964-05-12;Hamilton;NULL;159;78
-457;Nero;Archer;M;1964-05-13;Brantford;Penicillin;186;75
-458;Joseph;Miller;M;1964-05-14;Hamilton;NULL;150;87
-459;Mickey;Drama;M;1964-05-15;Toronto;Penicillin;190;110
-460;Gerard;Holloway;M;1964-05-16;Hamilton;NULL;194;126
-461;Mary;Bigelow;F;1964-05-17;Toronto;Codeine;174;103
-462;Anna;Olemaun;F;1964-05-18;Brampton;Almonds;42;5
-463;Hayley;McArthur;F;1964-05-19;Hamilton;Penicillin;62;14
-464;Alice;Jones;F;1964-05-20;Dundas;Sulfa Drugs;179;84
-465;Luis;Rosenberg;M;1964-05-21;Calgary;NULL;180;122
-466;Trixie;Lockwood;F;1964-05-22;Hamilton;Codeine;169;65
-467;Louie;Wong;M;1964-05-23;Delhi;Penicillin;122;46
-468;Frank;Anderson;M;1964-05-24;Hamilton;Penicillin;137;43
-469;Tally;Nichols;F;1964-05-25;Stoney Creek;Valporic Acid;172;85
-470;Agnes;Waterfield;F;1964-05-26;Ancaster;NULL;155;65
-471;Polly;Vallance;F;1964-05-27;Hamilton;NULL;150;67
-472;Ethan;Maureen;M;1964-05-28;London;Penicillin;179;120
-473;Roderick;Eckhart;M;1964-05-29;Windsor;Tylenol;178;103
-474;John;Olsen;M;1964-05-30;Stoney Creek;NULL;220;106
-475;Sharon;Grissom;F;1964-05-31;Fruitland;Penicillin;137;72
-476;Natsumi;Totenkinder;F;1964-06-01;Hamilton;NULL;136;56
-477;Katie;Maigret;F;1964-06-02;Hamilton;Penicillin;168;92
-478;Tom;Pike;M;1964-06-03;Dunnville;NULL;142;89
-479;Narcissa;Hanover;F;1964-06-04;Ancaster;NULL;144;80
-480;Melinda;Travis;F;1964-06-05;Dunton;Penicillin;175;107
-481;Tom;Lovegood;M;1964-06-06;Toronto;Penicillin;148;80
-482;Teddy;Melinda;M;1964-06-07;Hamilton;NULL;152;59
-483;Ana;Clancy;F;1964-06-08;Hamilton;Penicillin;143;52
-484;Ismael;Brearly;M;1964-06-09;Hamilton;NULL;202;112
-485;Dominic;Poppins;M;1964-06-10;Red River;NULL;190;108
-486;Tony;Lamb;M;1964-06-11;Burlington;NULL;191;124
-487;Kurt;Sanderson;M;1964-06-12;Toronto;Sulfa;192;109
-488;Mrs;Willows;F;1964-06-13;Hamilton;NULL;163;64
-489;Hercule;Kuramitsu;M;1964-06-14;Hamilton;NULL;192;126
-490;Jennifer;McKinnon;F;1964-06-15;Brantford;Penicillin;159;63
-491;Herb;Bloom-Wood;M;1964-06-16;Hamilton;NULL;178;102
-492;David;White;M;1964-06-17;Hamilton;Penicillin;156;87
-493;Margaret;Nolan;F;1964-06-18;Calgary;Codeine;138;57
-494;Amy;McFly;F;1964-06-19;Burlington;Penicillin;156;65
-495;Cindy;Randall;F;1964-06-20;Oakville;Honey;144;68
-496;Spiros;Mangel;M;1964-06-21;Oakville;Sulfa;177;131
-497;Louie;Sydnor;M;1964-06-22;Toronto;NULL;81;26
-498;Morgan;Brennan;M;1964-06-23;Hamilton;Bee Stings;174;60
-499;Jessica;Owens;F;1964-06-24;Dundas;NULL;123;50
-500;Emma;Brandon;F;1964-06-25;Burlington;NULL;188;66
+﻿id;fornavn;etternavn;kjonn;foedselsdag;sted;allergier;hoyde;vekt;
+1;Donald;Waterfield;M;1963-02-12;Barrie;NULL;156;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (1, 'Donald', 'Waterfield', 'M', '1963-02-12', 'Barrie', 'NULL', 156, 65);"
+2;Mickey;Baasha;M;1963-02-13;Dundas;Sulfa;185;76;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (2, 'Mickey', 'Baasha', 'M', '1963-02-13', 'Dundas', 'Sulfa', 185, 76);"
+3;Jiji;Sharma;M;1963-02-14;Hamilton;Penicillin;194;106;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (3, 'Jiji', 'Sharma', 'M', '1963-02-14', 'Hamilton', 'Penicillin', 194, 106);"
+4;Blair;Diaz;M;1963-02-15;Hamilton;NULL;191;104;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (4, 'Blair', 'Diaz', 'M', '1963-02-15', 'Hamilton', 'NULL', 191, 104);"
+5;Charles;Wolfe;M;1963-02-16;Orillia;Penicillin;47;10;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (5, 'Charles', 'Wolfe', 'M', '1963-02-16', 'Orillia', 'Penicillin', 47, 10);"
+6;Sue;Falcon;F;1963-02-17;Ajax;Penicillin;43;5;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (6, 'Sue', 'Falcon', 'F', '1963-02-17', 'Ajax', 'Penicillin', 43, 5);"
+7;Thomas;ONeill;M;1963-02-18;Burlington;NULL;180;117;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (7, 'Thomas', 'ONeill', 'M', '1963-02-18', 'Burlington', 'NULL', 180, 117);"
+8;Sonny;Beckett;M;1963-02-19;Port Hawkesbury;NULL;174;105;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (8, 'Sonny', 'Beckett', 'M', '1963-02-19', 'Port Hawkesbury', 'NULL', 174, 105);"
+9;Sister;Spitzer;F;1963-02-20;Toronto;Penicillin;173;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (9, 'Sister', 'Spitzer', 'F', '1963-02-20', 'Toronto', 'Penicillin', 173, 95);"
+10;Cedric;Coltrane;M;1963-02-21;Toronto;NULL;157;61;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (10, 'Cedric', 'Coltrane', 'M', '1963-02-21', 'Toronto', 'NULL', 157, 61);"
+11;Hank;Spencer;M;1963-02-22;Peterborough;NULL;158;74;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (11, 'Hank', 'Spencer', 'M', '1963-02-22', 'Peterborough', 'NULL', 158, 74);"
+12;Sara;di Marco;F;1963-02-23;Hamilton;NULL;145;46;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (12, 'Sara', 'di Marco', 'F', '1963-02-23', 'Hamilton', 'NULL', 145, 46);"
+13;Daphne;Seabright;F;1963-02-24;Ancaster;Codeine;146;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (13, 'Daphne', 'Seabright', 'F', '1963-02-24', 'Ancaster', 'Codeine', 146, 77);"
+14;Rick;Bennett;M;1963-02-25;Ancaster;Penicillin;220;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (14, 'Rick', 'Bennett', 'M', '1963-02-25', 'Ancaster', 'Penicillin', 220, 95);"
+15;Amy;Leela;F;1963-02-26;Hamilton;NULL;172;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (15, 'Amy', 'Leela', 'F', '1963-02-26', 'Hamilton', 'NULL', 172, 72);"
+16;Woody;Bashir;M;1963-02-27;Barrie;Penicillin;153;59;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (16, 'Woody', 'Bashir', 'M', '1963-02-27', 'Barrie', 'Penicillin', 153, 59);"
+17;Tom;Halliwell;M;1963-02-28;Hamilton;Ragweed;179;114;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (17, 'Tom', 'Halliwell', 'M', '1963-02-28', 'Hamilton', 'Ragweed', 179, 114);"
+18;Rachel;Winterbourne;F;1963-03-01;Hamilton;NULL;163;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (18, 'Rachel', 'Winterbourne', 'F', '1963-03-01', 'Hamilton', 'NULL', 163, 95);"
+19;John;West;M;1963-03-02;Oakville;NULL;138;61;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (19, 'John', 'West', 'M', '1963-03-02', 'Oakville', 'NULL', 138, 61);"
+20;Jon;Doggett;M;1963-03-03;Hamilton;NULL;194;116;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (20, 'Jon', 'Doggett', 'M', '1963-03-03', 'Hamilton', 'NULL', 194, 116);"
+21;Angel;Edwards;F;1963-03-04;Brantford;NULL;176;106;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (21, 'Angel', 'Edwards', 'F', '1963-03-04', 'Brantford', 'NULL', 176, 106);"
+22;Brodie;Beck;F;1963-03-05;Carlisle;NULL;157;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (22, 'Brodie', 'Beck', 'F', '1963-03-05', 'Carlisle', 'NULL', 157, 66);"
+23;Beanie;Foster;F;1963-03-06;Ancaster;Sulfa;154;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (23, 'Beanie', 'Foster', 'F', '1963-03-06', 'Ancaster', 'Sulfa', 154, 75);"
+24;Nino;Andrews;M;1963-03-07;Hamilton;Peanuts;186;85;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (24, 'Nino', 'Andrews', 'M', '1963-03-07', 'Hamilton', 'Peanuts', 186, 85);"
+25;John;Farley;M;1963-03-08;Hamilton;Gluten;213;104;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (25, 'John', 'Farley', 'M', '1963-03-08', 'Hamilton', 'Gluten', 213, 104);"
+26;Nea;Kobayakawa;F;1963-03-09;Toronto;NULL;147;62;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (26, 'Nea', 'Kobayakawa', 'F', '1963-03-09', 'Toronto', 'NULL', 147, 62);"
+27;Laura;Halliwell;F;1963-03-10;Brantford;NULL;146;76;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (27, 'Laura', 'Halliwell', 'F', '1963-03-10', 'Brantford', 'NULL', 146, 76);"
+28;Lucille;Maureen;F;1963-03-11;Hamilton;NULL;184;87;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (28, 'Lucille', 'Maureen', 'F', '1963-03-11', 'Hamilton', 'NULL', 184, 87);"
+29;Jim;Thomas;M;1963-03-12;Ottawa;Penicillin;173;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (29, 'Jim', 'Thomas', 'M', '1963-03-12', 'Ottawa', 'Penicillin', 173, 70);"
+30;Roderick;Payne;M;1963-03-13;Halifax;NULL;58;17;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (30, 'Roderick', 'Payne', 'M', '1963-03-13', 'Halifax', 'NULL', 58, 17);"
+31;Sam;Threep;M;1963-03-14;Hamilton;Sulpha;199;141;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (31, 'Sam', 'Threep', 'M', '1963-03-14', 'Hamilton', 'Sulpha', 199, 141);"
+32;Bertha;Crowley;F;1963-03-15;Delhi;NULL;125;39;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (32, 'Bertha', 'Crowley', 'F', '1963-03-15', 'Delhi', 'NULL', 125, 39);"
+33;Roland;Edge;M;1963-03-16;Brantford;Peanut Oil;199;134;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (33, 'Roland', 'Edge', 'M', '1963-03-16', 'Brantford', 'Peanut Oil', 199, 134);"
+34;Don;Wiggum;M;1963-03-17;Hamilton;NULL;189;91;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (34, 'Don', 'Wiggum', 'M', '1963-03-17', 'Hamilton', 'NULL', 189, 91);"
+35;Anthony;Maxwell;M;1963-03-18;Oakville;NULL;92;37;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (35, 'Anthony', 'Maxwell', 'M', '1963-03-18', 'Oakville', 'NULL', 92, 37);"
+36;James;Sullivan;M;1963-03-19;Delhi;Topical Anaesthesia;139;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (36, 'James', 'Sullivan', 'M', '1963-03-19', 'Delhi', 'Topical Anaesthesia', 139, 68);"
+37;Anne;Marlowe;F;1963-03-20;Pickering;NULL;165;88;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (37, 'Anne', 'Marlowe', 'F', '1963-03-20', 'Pickering', 'NULL', 165, 88);"
+38;Kelly;Hamilton;F;1963-03-21;Stoney Creek;Penicillin;84;36;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (38, 'Kelly', 'Hamilton', 'F', '1963-03-21', 'Stoney Creek', 'Penicillin', 84, 36);"
+39;Charles;Andonuts;M;1963-03-22;Hamilton;NULL;62;15;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (39, 'Charles', 'Andonuts', 'M', '1963-03-22', 'Hamilton', 'NULL', 62, 15);"
+40;Temple;Russert;F;1963-03-23;Hamilton;Hay Fever;166;102;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (40, 'Temple', 'Russert', 'F', '1963-03-23', 'Hamilton', 'Hay Fever', 166, 102);"
+41;Don;Edwards;M;1963-03-24;Hamilton;NULL;215;118;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (41, 'Don', 'Edwards', 'M', '1963-03-24', 'Hamilton', 'NULL', 215, 118);"
+42;Alice;Donovan;F;1963-03-25;Hamilton;Penicillin;167;54;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (42, 'Alice', 'Donovan', 'F', '1963-03-25', 'Hamilton', 'Penicillin', 167, 54);"
+43;Stone;Cutting;M;1963-03-26;Hamilton;Codeine;110;42;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (43, 'Stone', 'Cutting', 'M', '1963-03-26', 'Hamilton', 'Codeine', 110, 42);"
+44;Neil;Allan;M;1963-03-27;Cambridge;Penicillin;203;123;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (44, 'Neil', 'Allan', 'M', '1963-03-27', 'Cambridge', 'Penicillin', 203, 123);"
+45;Cross;Gordon;M;1963-03-28;Ancaster;NULL;125;53;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (45, 'Cross', 'Gordon', 'M', '1963-03-28', 'Ancaster', 'NULL', 125, 53);"
+46;Phoebe;Bigelow;F;1963-03-29;Thunder Bay;Penicillin;183;64;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (46, 'Phoebe', 'Bigelow', 'F', '1963-03-29', 'Thunder Bay', 'Penicillin', 183, 64);"
+47;Harry;Kuramitsu;M;1963-03-30;Hamilton;NULL;215;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (47, 'Harry', 'Kuramitsu', 'M', '1963-03-30', 'Hamilton', 'NULL', 215, 95);"
+48;Gary;Ramotswe;M;1963-03-31;Hamilton;NULL;178;101;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (48, 'Gary', 'Ramotswe', 'M', '1963-03-31', 'Hamilton', 'NULL', 178, 101);"
+49;Phil;Chester;M;1963-04-01;Hamilton;Penicillin;199;112;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (49, 'Phil', 'Chester', 'M', '1963-04-01', 'Hamilton', 'Penicillin', 199, 112);"
+50;Phil;Beckett;M;1963-04-02;Ottawa;NULL;83;26;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (50, 'Phil', 'Beckett', 'M', '1963-04-02', 'Ottawa', 'NULL', 83, 26);"
+51;Gala;Littlefield;F;1963-04-03;Brantford;NULL;112;41;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (51, 'Gala', 'Littlefield', 'F', '1963-04-03', 'Brantford', 'NULL', 112, 41);"
+52;Gregory;James;M;1963-04-04;Hamilton;NULL;195;135;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (52, 'Gregory', 'James', 'M', '1963-04-04', 'Hamilton', 'NULL', 195, 135);"
+53;Bruno;Wolfe;M;1963-04-05;Ottawa;Sulfa;145;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (53, 'Bruno', 'Wolfe', 'M', '1963-04-05', 'Ottawa', 'Sulfa', 145, 70);"
+54;Molly;Jackson;F;1963-04-06;Carlisle;NULL;159;48;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (54, 'Molly', 'Jackson', 'F', '1963-04-06', 'Carlisle', 'NULL', 159, 48);"
+55;Rose;Spellman;F;1963-04-07;Hamilton;NULL;164;59;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (55, 'Rose', 'Spellman', 'F', '1963-04-07', 'Hamilton', 'NULL', 164, 59);"
+56;Will;Manu;M;1963-04-08;Burlington;NULL;154;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (56, 'Will', 'Manu', 'M', '1963-04-08', 'Burlington', 'NULL', 154, 69);"
+57;Woody;Riviera;M;1963-04-09;Kingston;Penicillin;192;109;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (57, 'Woody', 'Riviera', 'M', '1963-04-09', 'Kingston', 'Penicillin', 192, 109);"
+58;Georgette;Gallagher;F;1963-04-10;Elmira;Ragweed;170;93;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (58, 'Georgette', 'Gallagher', 'F', '1963-04-10', 'Elmira', 'Ragweed', 170, 93);"
+59;Rocky;Donahue;M;1963-04-11;Hamilton;NULL;190;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (59, 'Rocky', 'Donahue', 'M', '1963-04-11', 'Hamilton', 'NULL', 190, 110);"
+60;Roland;Murphy;M;1963-04-12;Hamilton;Sulfa Drugs;153;71;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (60, 'Roland', 'Murphy', 'M', '1963-04-12', 'Hamilton', 'Sulfa Drugs', 153, 71);"
+61;Mary;Spellman;F;1963-04-13;Stoney Creek;NULL;178;92;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (61, 'Mary', 'Spellman', 'F', '1963-04-13', 'Stoney Creek', 'NULL', 178, 92);"
+62;Shiro;Whale;M;1963-04-14;Hamilton;Penicillin;195;117;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (62, 'Shiro', 'Whale', 'M', '1963-04-14', 'Hamilton', 'Penicillin', 195, 117);"
+63;Calleigh;Dean;F;1963-04-15;Hamilton;Penicillin;175;56;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (63, 'Calleigh', 'Dean', 'F', '1963-04-15', 'Hamilton', 'Penicillin', 175, 56);"
+64;Didi;Dean;F;1963-04-16;Milton;NULL;182;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (64, 'Didi', 'Dean', 'F', '1963-04-16', 'Milton', 'NULL', 182, 110);"
+65;Haiku;Alpert;M;1963-04-17;Paris;Penicillin;69;22;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (65, 'Haiku', 'Alpert', 'M', '1963-04-17', 'Paris', 'Penicillin', 69, 22);"
+66;Joseph;Justin;M;1963-04-18;Toronto;Penicillin;140;71;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (66, 'Joseph', 'Justin', 'M', '1963-04-18', 'Toronto', 'Penicillin', 140, 71);"
+67;Catherine;Minoru;F;1963-04-19;Victoria;Sulphur;184;100;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (67, 'Catherine', 'Minoru', 'F', '1963-04-19', 'Victoria', 'Sulphur', 184, 100);"
+68;Danny;Hardbroom;M;1963-04-20;Niagara Falls;Penicillin;183;105;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (68, 'Danny', 'Hardbroom', 'M', '1963-04-20', 'Niagara Falls', 'Penicillin', 183, 105);"
+69;Lily;Crusher;F;1963-04-21;Burlington;NULL;185;82;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (69, 'Lily', 'Crusher', 'F', '1963-04-21', 'Burlington', 'NULL', 185, 82);"
+70;Billy;Jones;M;1963-04-22;Hamilton;NULL;85;29;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (70, 'Billy', 'Jones', 'M', '1963-04-22', 'Hamilton', 'NULL', 85, 29);"
+71;Vicki;Babbling;F;1963-04-23;Stoney Creek;NULL;180;64;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (71, 'Vicki', 'Babbling', 'F', '1963-04-23', 'Stoney Creek', 'NULL', 180, 64);"
+72;Lily;Vargas;F;1963-04-24;Hamilton;Codeine;195;102;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (72, 'Lily', 'Vargas', 'F', '1963-04-24', 'Hamilton', 'Codeine', 195, 102);"
+73;Agatha;Sawyer;F;1963-04-25;Ancaster;Penicillin;155;83;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (73, 'Agatha', 'Sawyer', 'F', '1963-04-25', 'Ancaster', 'Penicillin', 155, 83);"
+74;Temple;Marlowe;F;1963-04-26;Hamilton;NULL;135;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (74, 'Temple', 'Marlowe', 'F', '1963-04-26', 'Hamilton', 'NULL', 135, 65);"
+75;Kazuki;Ranall;M;1963-04-27;Hamilton;Penicillin;139;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (75, 'Kazuki', 'Ranall', 'M', '1963-04-27', 'Hamilton', 'Penicillin', 139, 63);"
+76;Jackie;Lovegood;F;1963-04-28;Hamilton;NULL;157;56;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (76, 'Jackie', 'Lovegood', 'F', '1963-04-28', 'Hamilton', 'NULL', 157, 56);"
+77;Mike;Mars;M;1963-04-29;Hamilton;Penicillin;123;46;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (77, 'Mike', 'Mars', 'M', '1963-04-29', 'Hamilton', 'Penicillin', 123, 46);"
+78;Natsumi;Weasley;F;1963-04-30;Thunder Bay;Valporic Acid;157;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (78, 'Natsumi', 'Weasley', 'F', '1963-04-30', 'Thunder Bay', 'Valporic Acid', 157, 66);"
+79;Reginald;Jackson;M;1963-05-01;Toronto;Penicillin;182;101;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (79, 'Reginald', 'Jackson', 'M', '1963-05-01', 'Toronto', 'Penicillin', 182, 101);"
+80;Ernest;Clarkson;M;1963-05-02;Hamilton;NULL;163;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (80, 'Ernest', 'Clarkson', 'M', '1963-05-02', 'Hamilton', 'NULL', 163, 66);"
+81;Gytha;Banzai;F;1963-05-03;Hamilton;NULL;182;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (81, 'Gytha', 'Banzai', 'F', '1963-05-03', 'Hamilton', 'NULL', 182, 75);"
+82;Matt;Goergen;M;1963-05-04;Hamilton;Penicillin;130;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (82, 'Matt', 'Goergen', 'M', '1963-05-04', 'Hamilton', 'Penicillin', 130, 66);"
+83;Nick;Walker;M;1963-05-05;Hamilton;NULL;164;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (83, 'Nick', 'Walker', 'M', '1963-05-05', 'Hamilton', 'NULL', 164, 77);"
+84;Jen;Jacobs;F;1963-05-06;Hamilton;NULL;156;79;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (84, 'Jen', 'Jacobs', 'F', '1963-05-06', 'Hamilton', 'NULL', 156, 79);"
+85;Phoebe;Bell;F;1963-05-07;Hepworth;Micropore Tape;169;115;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (85, 'Phoebe', 'Bell', 'F', '1963-05-07', 'Hepworth', 'Micropore Tape', 169, 115);"
+86;Ann;Blocksberg;F;1963-05-08;Hamilton;Penicillin;162;101;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (86, 'Ann', 'Blocksberg', 'F', '1963-05-08', 'Hamilton', 'Penicillin', 162, 101);"
+87;Frank;Capone;M;1963-05-09;Hamilton;NULL;166;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (87, 'Frank', 'Capone', 'M', '1963-05-09', 'Hamilton', 'NULL', 166, 65);"
+88;Caroline;Smart;F;1963-05-10;Hamilton;NULL;145;64;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (88, 'Caroline', 'Smart', 'F', '1963-05-10', 'Hamilton', 'NULL', 145, 64);"
+89;Sam;Spratt;M;1963-05-11;Hamilton;NULL;195;100;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (89, 'Sam', 'Spratt', 'M', '1963-05-11', 'Hamilton', 'NULL', 195, 100);"
+90;Prue;Cleever;F;1963-05-12;Odessa;Sulfa Drugs;149;119;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (90, 'Prue', 'Cleever', 'F', '1963-05-12', 'Odessa', 'Sulfa Drugs', 149, 119);"
+91;Zoe;Miller;F;1963-05-13;Hamilton;Honey;184;103;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (91, 'Zoe', 'Miller', 'F', '1963-05-13', 'Hamilton', 'Honey', 184, 103);"
+92;Mendy;Strate;M;1963-05-14;Stoney Creek;NULL;206;111;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (92, 'Mendy', 'Strate', 'M', '1963-05-14', 'Stoney Creek', 'NULL', 206, 111);"
+93;Delores;Bones;F;1963-05-15;Hamilton;NULL;154;50;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (93, 'Delores', 'Bones', 'F', '1963-05-15', 'Hamilton', 'NULL', 154, 50);"
+94;Hal;Riviera;M;1963-05-16;Kingston;Tylenol;194;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (94, 'Hal', 'Riviera', 'M', '1963-05-16', 'Kingston', 'Tylenol', 194, 110);"
+95;Gene;Edwards;M;1963-05-17;Hamilton;Sulphate;199;96;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (95, 'Gene', 'Edwards', 'M', '1963-05-17', 'Hamilton', 'Sulphate', 199, 96);"
+96;Jonny;Christian;M;1963-05-18;Kingston;NULL;182;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (96, 'Jonny', 'Christian', 'M', '1963-05-18', 'Kingston', 'NULL', 182, 77);"
+97;Emmett;Erin;M;1963-05-19;Hamilton;Penicillin;126;39;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (97, 'Emmett', 'Erin', 'M', '1963-05-19', 'Hamilton', 'Penicillin', 126, 39);"
+98;Harry;Soprano;M;1963-05-20;Beamsville;NULL;85;26;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (98, 'Harry', 'Soprano', 'M', '1963-05-20', 'Beamsville', 'NULL', 85, 26);"
+99;Richard;Davis;M;1963-05-21;Toronto;NULL;148;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (99, 'Richard', 'Davis', 'M', '1963-05-21', 'Toronto', 'NULL', 148, 75);"
+100;Olwyn;Chino;M;1963-05-22;Hamilton;Tetracycline;146;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (100, 'Olwyn', 'Chino', 'M', '1963-05-22', 'Hamilton', 'Tetracycline', 146, 70);"
+101;Annie;Cox;F;1963-05-23;Hamilton;NULL;160;83;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (101, 'Annie', 'Cox', 'F', '1963-05-23', 'Hamilton', 'NULL', 160, 83);"
+102;John;Stape;M;1963-05-24;Hamilton;NULL;214;118;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (102, 'John', 'Stape', 'M', '1963-05-24', 'Hamilton', 'NULL', 214, 118);"
+103;Casanova;Dresden;M;1963-05-25;Milton;Penicillin;150;74;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (103, 'Casanova', 'Dresden', 'M', '1963-05-25', 'Milton', 'Penicillin', 150, 74);"
+104;Alice;Taylor;F;1963-05-26;Hamilton;NULL;179;109;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (104, 'Alice', 'Taylor', 'F', '1963-05-26', 'Hamilton', 'NULL', 179, 109);"
+105;Freddie;Landsman;M;1963-05-27;Brockville;NULL;152;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (105, 'Freddie', 'Landsman', 'M', '1963-05-27', 'Brockville', 'NULL', 152, 73);"
+106;Moe;Provenza;M;1963-05-28;Cambridge;NULL;183;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (106, 'Moe', 'Provenza', 'M', '1963-05-28', 'Cambridge', 'NULL', 183, 72);"
+107;Gillian;Dyson;F;1963-05-29;Hamilton;Penicillin;164;86;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (107, 'Gillian', 'Dyson', 'F', '1963-05-29', 'Hamilton', 'Penicillin', 164, 86);"
+108;Beanie;Nelson;M;1963-05-30;Beamsville;Tylenol;162;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (108, 'Beanie', 'Nelson', 'M', '1963-05-30', 'Beamsville', 'Tylenol', 162, 69);"
+109;William;Templin;M;1963-05-31;Highland;NULL;152;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (109, 'William', 'Templin', 'M', '1963-05-31', 'Highland', 'NULL', 152, 72);"
+110;Leyla;Dedede;F;1963-06-01;Hamilton;Sulfa;166;99;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (110, 'Leyla', 'Dedede', 'F', '1963-06-01', 'Hamilton', 'Sulfa', 166, 99);"
+111;Joyce;Bosch;F;1963-06-02;Brantford;NULL;65;17;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (111, 'Joyce', 'Bosch', 'F', '1963-06-02', 'Brantford', 'NULL', 65, 17);"
+112;David;Beresford;M;1963-06-03;Halifax;NULL;152;87;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (112, 'David', 'Beresford', 'M', '1963-06-03', 'Halifax', 'NULL', 152, 87);"
+113;Shirley;Havers;F;1963-06-04;Hamilton;NULL;145;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (113, 'Shirley', 'Havers', 'F', '1963-06-04', 'Hamilton', 'NULL', 145, 66);"
+114;Norman;Gregory;M;1963-06-05;Calgary;Eggs;125;53;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (114, 'Norman', 'Gregory', 'M', '1963-06-05', 'Calgary', 'Eggs', 125, 53);"
+115;Briareos;Hayes;M;1963-06-06;Sarnia;Morphine;189;138;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (115, 'Briareos', 'Hayes', 'M', '1963-06-06', 'Sarnia', 'Morphine', 189, 138);"
+116;Mable;Taggart;F;1963-06-07;Hamilton;NULL;181;87;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (116, 'Mable', 'Taggart', 'F', '1963-06-07', 'Hamilton', 'NULL', 181, 87);"
+117;Chen;Baasha;M;1963-06-08;Cambridge;NULL;193;140;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (117, 'Chen', 'Baasha', 'M', '1963-06-08', 'Cambridge', 'NULL', 193, 140);"
+118;Indiana;Kingsley;M;1963-06-09;Hamilton;Penicillin;140;67;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (118, 'Indiana', 'Kingsley', 'M', '1963-06-09', 'Hamilton', 'Penicillin', 140, 67);"
+119;Henry;Hernandez;M;1963-06-10;Hamilton;NULL;163;55;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (119, 'Henry', 'Hernandez', 'M', '1963-06-10', 'Hamilton', 'NULL', 163, 55);"
+120;Teddy;McGrath;M;1963-06-11;Hamilton;NULL;168;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (120, 'Teddy', 'McGrath', 'M', '1963-06-11', 'Hamilton', 'NULL', 168, 75);"
+121;Salvatore;Neutron;M;1963-06-12;Burlington;Codeine;186;106;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (121, 'Salvatore', 'Neutron', 'M', '1963-06-12', 'Burlington', 'Codeine', 186, 106);"
+122;Harry;Graf;M;1963-06-13;Hamilton;Penicillin;134;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (122, 'Harry', 'Graf', 'M', '1963-06-13', 'Hamilton', 'Penicillin', 134, 68);"
+123;Stanley;Bean;M;1963-06-14;Toronto;NULL;172;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (123, 'Stanley', 'Bean', 'M', '1963-06-14', 'Toronto', 'NULL', 172, 75);"
+124;Derek;Burbank;M;1963-06-15;Brantford;Penicillin;203;125;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (124, 'Derek', 'Burbank', 'M', '1963-06-15', 'Brantford', 'Penicillin', 203, 125);"
+125;Nea;Brocklehurst;F;1963-06-16;Hamilton;Penicillin;38;5;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (125, 'Nea', 'Brocklehurst', 'F', '1963-06-16', 'Hamilton', 'Penicillin', 38, 5);"
+126;King;Arden;M;1963-06-17;Cambridge;Seafood;137;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (126, 'King', 'Arden', 'M', '1963-06-17', 'Cambridge', 'Seafood', 137, 84);"
+127;Lyan;Russo;M;1963-06-18;Toronto;Tetracycline;180;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (127, 'Lyan', 'Russo', 'M', '1963-06-18', 'Toronto', 'Tetracycline', 180, 65);"
+128;Thomas;Fortune;M;1963-06-19;Carisle;Cats;170;114;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (128, 'Thomas', 'Fortune', 'M', '1963-06-19', 'Carisle', 'Cats', 170, 114);"
+129;Priestley;DAmico;M;1963-06-20;Milton;Penicillin;152;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (129, 'Priestley', 'DAmico', 'M', '1963-06-20', 'Milton', 'Penicillin', 152, 69);"
+130;Arnold;Love;M;1963-06-21;Toronto;NULL;200;116;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (130, 'Arnold', 'Love', 'M', '1963-06-21', 'Toronto', 'NULL', 200, 116);"
+131;Thursday;Ernst;F;1963-06-22;Whitby;Sulfa;172;53;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (131, 'Thursday', 'Ernst', 'F', '1963-06-22', 'Whitby', 'Sulfa', 172, 53);"
+132;Haiku;Shaft;M;1963-06-23;Barrie;NULL;155;55;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (132, 'Haiku', 'Shaft', 'M', '1963-06-23', 'Barrie', 'NULL', 155, 55);"
+133;Mattie;Harkness;F;1963-06-24;Timmins;NULL;159;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (133, 'Mattie', 'Harkness', 'F', '1963-06-24', 'Timmins', 'NULL', 159, 60);"
+134;Alexandra;Robins;F;1963-06-25;Burlington;Sulfa;179;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (134, 'Alexandra', 'Robins', 'F', '1963-06-25', 'Burlington', 'Sulfa', 179, 84);"
+135;Vin;Smyth;M;1963-06-26;Hamilton;Codeine;207;113;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (135, 'Vin', 'Smyth', 'M', '1963-06-26', 'Hamilton', 'Codeine', 207, 113);"
+136;Kenny;Skelton;M;1963-06-27;Calgary;NULL;187;118;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (136, 'Kenny', 'Skelton', 'M', '1963-06-27', 'Calgary', 'NULL', 187, 118);"
+137;Jackie;Dean;M;1963-06-28;Victoria;NULL;136;58;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (137, 'Jackie', 'Dean', 'M', '1963-06-28', 'Victoria', 'NULL', 136, 58);"
+138;Fiz;Ozaki;F;1963-06-29;Hamilton;Penicillin;180;91;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (138, 'Fiz', 'Ozaki', 'F', '1963-06-29', 'Hamilton', 'Penicillin', 180, 91);"
+139;Robbie;Wilde;M;1963-06-30;Burlington;NULL;164;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (139, 'Robbie', 'Wilde', 'M', '1963-06-30', 'Burlington', 'NULL', 164, 70);"
+140;Amy;Fuhrey;F;1963-07-01;Oshawa;Penicillin;148;49;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (140, 'Amy', 'Fuhrey', 'F', '1963-07-01', 'Oshawa', 'Penicillin', 148, 49);"
+141;Lou;Vincent;M;1963-07-02;Selkirk;Penicillin;143;56;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (141, 'Lou', 'Vincent', 'M', '1963-07-02', 'Selkirk', 'Penicillin', 143, 56);"
+142;Elvis;Maroni;M;1963-07-03;Hamilton;Codeine;139;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (142, 'Elvis', 'Maroni', 'M', '1963-07-03', 'Hamilton', 'Codeine', 139, 66);"
+143;Mike;Madison;M;1963-07-04;Carlisle;NULL;191;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (143, 'Mike', 'Madison', 'M', '1963-07-04', 'Carlisle', 'NULL', 191, 110);"
+144;Reginald;Cavor;M;1963-07-05;Red Deer;Penicillin;163;86;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (144, 'Reginald', 'Cavor', 'M', '1963-07-05', 'Red Deer', 'Penicillin', 163, 86);"
+145;Kurt;Turtle;M;1963-07-06;Hamilton;NULL;148;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (145, 'Kurt', 'Turtle', 'M', '1963-07-06', 'Hamilton', 'NULL', 148, 68);"
+146;Scott;Corinthos;M;1963-07-07;Hamilton;NULL;198;123;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (146, 'Scott', 'Corinthos', 'M', '1963-07-07', 'Hamilton', 'NULL', 198, 123);"
+147;Agnes;Duckworth;F;1963-07-08;Ancaster;Penicillin;178;76;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (147, 'Agnes', 'Duckworth', 'F', '1963-07-08', 'Ancaster', 'Penicillin', 178, 76);"
+148;Keziah;Brearly;F;1963-07-09;Hamilton;Penicillin;163;102;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (148, 'Keziah', 'Brearly', 'F', '1963-07-09', 'Hamilton', 'Penicillin', 163, 102);"
+149;David;Redfield;M;1963-07-10;Burlington;Dairy Products;166;89;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (149, 'David', 'Redfield', 'M', '1963-07-10', 'Burlington', 'Dairy Products', 166, 89);"
+150;Sonny;Waterman;M;1963-07-11;Hamilton;NULL;173;89;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (150, 'Sonny', 'Waterman', 'M', '1963-07-11', 'Hamilton', 'NULL', 173, 89);"
+151;Jeff;Tyrell;M;1963-07-12;Hamilton;NULL;167;118;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (151, 'Jeff', 'Tyrell', 'M', '1963-07-12', 'Hamilton', 'NULL', 167, 118);"
+152;Charmian;Hardy;F;1963-07-13;Hamilton;NULL;155;93;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (152, 'Charmian', 'Hardy', 'F', '1963-07-13', 'Hamilton', 'NULL', 155, 93);"
+153;Jefferson;Hally;M;1963-07-14;Toronto;Penicillin;155;89;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (153, 'Jefferson', 'Hally', 'M', '1963-07-14', 'Toronto', 'Penicillin', 155, 89);"
+154;Daneel;Carpenter;M;1963-07-15;Burlington;Penicillin;185;101;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (154, 'Daneel', 'Carpenter', 'M', '1963-07-15', 'Burlington', 'Penicillin', 185, 101);"
+155;Kazuki;Scarpetta;M;1963-07-16;Barrie;Penicillin;170;78;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (155, 'Kazuki', 'Scarpetta', 'M', '1963-07-16', 'Barrie', 'Penicillin', 170, 78);"
+156;Sarah;Newbury;F;1963-07-17;Athens;NULL;75;22;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (156, 'Sarah', 'Newbury', 'F', '1963-07-17', 'Athens', 'NULL', 75, 22);"
+157;Robert;Page;M;1963-07-18;Stoney Creek;NULL;177;117;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (157, 'Robert', 'Page', 'M', '1963-07-18', 'Stoney Creek', 'NULL', 177, 117);"
+158;Naoto;Clover;F;1963-07-19;Brantford;Codeine;120;38;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (158, 'Naoto', 'Clover', 'F', '1963-07-19', 'Brantford', 'Codeine', 120, 38);"
+159;Noike;Maloney;F;1963-07-20;Hamilton;Strawberries;147;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (159, 'Noike', 'Maloney', 'F', '1963-07-20', 'Hamilton', 'Strawberries', 147, 60);"
+160;Miranda;Delacour;F;1963-07-21;Stoney Creek;Valporic Acid;163;88;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (160, 'Miranda', 'Delacour', 'F', '1963-07-21', 'Stoney Creek', 'Valporic Acid', 163, 88);"
+161;Marty;Carrington;M;1963-07-22;Sarnia;Feathers;145;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (161, 'Marty', 'Carrington', 'M', '1963-07-22', 'Sarnia', 'Feathers', 145, 68);"
+162;Laura;Dee;F;1963-07-23;Windsor;NULL;148;64;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (162, 'Laura', 'Dee', 'F', '1963-07-23', 'Windsor', 'NULL', 148, 64);"
+163;Mona;Heterodyne;F;1963-07-24;Hamilton;NULL;146;48;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (163, 'Mona', 'Heterodyne', 'F', '1963-07-24', 'Hamilton', 'NULL', 146, 48);"
+164;Valentin;Mackey;M;1963-07-25;Ottawa;NULL;181;78;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (164, 'Valentin', 'Mackey', 'M', '1963-07-25', 'Ottawa', 'NULL', 181, 78);"
+165;Emmett;Colbock;M;1963-07-26;Hamilton;NULL;217;89;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (165, 'Emmett', 'Colbock', 'M', '1963-07-26', 'Hamilton', 'NULL', 217, 89);"
+166;Frank;Carrow;M;1963-07-27;Hamilton;ASA;58;15;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (166, 'Frank', 'Carrow', 'M', '1963-07-27', 'Hamilton', 'ASA', 58, 15);"
+167;Alex;Fox;F;1963-07-28;Selkirk;NULL;170;98;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (167, 'Alex', 'Fox', 'F', '1963-07-28', 'Selkirk', 'NULL', 170, 98);"
+168;Nina;Peroni;F;1963-07-29;Peterborough;NULL;151;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (168, 'Nina', 'Peroni', 'F', '1963-07-29', 'Peterborough', 'NULL', 151, 69);"
+169;Temple;LoPresti;F;1963-07-30;Hargersville;NULL;146;45;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (169, 'Temple', 'LoPresti', 'F', '1963-07-30', 'Hargersville', 'NULL', 146, 45);"
+170;Wanda;Redfield;F;1963-07-31;Hamilton;Eggs;169;111;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (170, 'Wanda', 'Redfield', 'F', '1963-07-31', 'Hamilton', 'Eggs', 169, 111);"
+171;Jack;Stewart;M;1963-08-01;Brantford;Topical Anaesthesia;101;35;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (171, 'Jack', 'Stewart', 'M', '1963-08-01', 'Brantford', 'Topical Anaesthesia', 101, 35);"
+172;Maria;Bluenight;F;1963-08-02;Ancaster;NULL;147;71;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (172, 'Maria', 'Bluenight', 'F', '1963-08-02', 'Ancaster', 'NULL', 147, 71);"
+173;Sarah;Cooper;F;1963-08-03;Athens;NULL;154;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (173, 'Sarah', 'Cooper', 'F', '1963-08-03', 'Athens', 'NULL', 154, 63);"
+174;Samus;Dalton;F;1963-08-04;Hamilton;NULL;149;50;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (174, 'Samus', 'Dalton', 'F', '1963-08-04', 'Hamilton', 'NULL', 149, 50);"
+175;Melody;Frye;F;1963-08-05;Hamilton;NULL;132;44;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (175, 'Melody', 'Frye', 'F', '1963-08-05', 'Hamilton', 'NULL', 132, 44);"
+176;Brooke;Bowles;F;1963-08-06;Toronto;Bee Stings;149;102;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (176, 'Brooke', 'Bowles', 'F', '1963-08-06', 'Toronto', 'Bee Stings', 149, 102);"
+177;Irene;Casswell;F;1963-08-07;Burlington;Codeine;117;25;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (177, 'Irene', 'Casswell', 'F', '1963-08-07', 'Burlington', 'Codeine', 117, 25);"
+178;David;Bustamonte;M;1963-08-08;Carisle;Peanuts;103;37;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (178, 'David', 'Bustamonte', 'M', '1963-08-08', 'Carisle', 'Peanuts', 103, 37);"
+179;Phil;Uzuki;M;1963-08-09;Saskatoon;Penicillin;187;124;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (179, 'Phil', 'Uzuki', 'M', '1963-08-09', 'Saskatoon', 'Penicillin', 187, 124);"
+180;Michael;Henderson;M;1963-08-10;Paris;Penicillin;131;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (180, 'Michael', 'Henderson', 'M', '1963-08-10', 'Paris', 'Penicillin', 131, 57);"
+181;Nancy;Costello;F;1963-08-11;Dundas;Penicillin;183;93;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (181, 'Nancy', 'Costello', 'F', '1963-08-11', 'Dundas', 'Penicillin', 183, 93);"
+182;Bernard;Karidian;M;1963-08-12;Hamilton;NULL;168;62;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (182, 'Bernard', 'Karidian', 'M', '1963-08-12', 'Hamilton', 'NULL', 168, 62);"
+183;Doris;Kent;F;1963-08-13;Toronto;NULL;161;49;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (183, 'Doris', 'Kent', 'F', '1963-08-13', 'Toronto', 'NULL', 161, 49);"
+184;Hoshi;Johnson;F;1963-08-14;Cambridge;Penicillin;179;106;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (184, 'Hoshi', 'Johnson', 'F', '1963-08-14', 'Cambridge', 'Penicillin', 179, 106);"
+185;Didi;Del Lago;F;1963-08-15;Hargersville;ASA;185;94;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (185, 'Didi', 'Del Lago', 'F', '1963-08-15', 'Hargersville', 'ASA', 185, 94);"
+186;Doyle;Starr;M;1963-08-16;Burlington;Wheat;191;121;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (186, 'Doyle', 'Starr', 'M', '1963-08-16', 'Burlington', 'Wheat', 191, 121);"
+187;Guido;Lonnegan;M;1963-08-17;Hamilton;ASA;153;79;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (187, 'Guido', 'Lonnegan', 'M', '1963-08-17', 'Hamilton', 'ASA', 153, 79);"
+188;Cary;Henderson;M;1963-08-18;Hamilton;Bee Stings;167;98;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (188, 'Cary', 'Henderson', 'M', '1963-08-18', 'Hamilton', 'Bee Stings', 167, 98);"
+189;Joanna;Cooper;F;1963-08-19;Toronto;Codeine;181;107;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (189, 'Joanna', 'Cooper', 'F', '1963-08-19', 'Toronto', 'Codeine', 181, 107);"
+190;Gwenog;Hughes;F;1963-08-20;Burlington;NULL;162;87;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (190, 'Gwenog', 'Hughes', 'F', '1963-08-20', 'Burlington', 'NULL', 162, 87);"
+191;Freddy;Johnson;M;1963-08-21;Cambridge;Peanuts;172;118;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (191, 'Freddy', 'Johnson', 'M', '1963-08-21', 'Cambridge', 'Peanuts', 172, 118);"
+192;Christine;Lynch;F;1963-08-22;Brantford;Sulphur;181;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (192, 'Christine', 'Lynch', 'F', '1963-08-22', 'Brantford', 'Sulphur', 181, 77);"
+193;Magrat;Luca;F;1963-08-23;Stoney Creek;NULL;134;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (193, 'Magrat', 'Luca', 'F', '1963-08-23', 'Stoney Creek', 'NULL', 134, 63);"
+194;Manick;Fletcher;M;1963-08-24;Ancaster;Strawberries;154;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (194, 'Manick', 'Fletcher', 'M', '1963-08-24', 'Ancaster', 'Strawberries', 154, 66);"
+195;Elizabeth;Rivers;F;1963-08-25;Beamsville;Penicillin;134;58;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (195, 'Elizabeth', 'Rivers', 'F', '1963-08-25', 'Beamsville', 'Penicillin', 134, 58);"
+196;Elvis;Kennedy;M;1963-08-26;Hamilton;Hay Fever;163;80;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (196, 'Elvis', 'Kennedy', 'M', '1963-08-26', 'Hamilton', 'Hay Fever', 163, 80);"
+197;Jack;Wesley;M;1963-08-27;Hamilton;NULL;197;106;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (197, 'Jack', 'Wesley', 'M', '1963-08-27', 'Hamilton', 'NULL', 197, 106);"
+198;Janice;Renault;F;1963-08-28;Hamilton;ASA;177;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (198, 'Janice', 'Renault', 'F', '1963-08-28', 'Hamilton', 'ASA', 177, 66);"
+199;Lenny;Holmes;M;1963-08-29;Hamilton;NULL;160;86;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (199, 'Lenny', 'Holmes', 'M', '1963-08-29', 'Hamilton', 'NULL', 160, 86);"
+200;Sally;Smith;F;1963-08-30;Cambridge;Penicillin;163;62;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (200, 'Sally', 'Smith', 'F', '1963-08-30', 'Cambridge', 'Penicillin', 163, 62);"
+201;John;Pearle;M;1963-08-31;Bancroft;Valporic Acid;200;138;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (201, 'John', 'Pearle', 'M', '1963-08-31', 'Bancroft', 'Valporic Acid', 200, 138);"
+202;Naoto;Stewart;F;1963-09-01;Sarnia;Penicillin;189;93;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (202, 'Naoto', 'Stewart', 'F', '1963-09-01', 'Sarnia', 'Penicillin', 189, 93);"
+203;Anita;Manu;F;1963-09-02;Dunton;NULL;161;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (203, 'Anita', 'Manu', 'F', '1963-09-02', 'Dunton', 'NULL', 161, 110);"
+204;Wilfred;Vincent;M;1963-09-03;Burlington;NULL;200;114;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (204, 'Wilfred', 'Vincent', 'M', '1963-09-03', 'Burlington', 'NULL', 200, 114);"
+205;Maggie;Rajasthan;F;1963-09-04;Hamilton;NULL;167;54;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (205, 'Maggie', 'Rajasthan', 'F', '1963-09-04', 'Hamilton', 'NULL', 167, 54);"
+206;Martin;Schultz;M;1963-09-05;Brockville;NULL;214;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (206, 'Martin', 'Schultz', 'M', '1963-09-05', 'Brockville', 'NULL', 214, 84);"
+207;Matt;Celine;M;1963-09-06;London;NULL;185;115;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (207, 'Matt', 'Celine', 'M', '1963-09-06', 'London', 'NULL', 185, 115);"
+208;Maleen;Bagshot;F;1963-09-07;Toronto;Peanut Butter;135;53;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (208, 'Maleen', 'Bagshot', 'F', '1963-09-07', 'Toronto', 'Peanut Butter', 135, 53);"
+209;Winnie;Hale;F;1963-09-08;Hamilton;Penicillin;159;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (209, 'Winnie', 'Hale', 'F', '1963-09-08', 'Hamilton', 'Penicillin', 159, 70);"
+210;Subhash;Vercetti;M;1963-09-09;Hamilton;NULL;152;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (210, 'Subhash', 'Vercetti', 'M', '1963-09-09', 'Hamilton', 'NULL', 152, 69);"
+211;Carol;Wylie;F;1963-09-10;Toronto;Penicillin;170;100;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (211, 'Carol', 'Wylie', 'F', '1963-09-10', 'Toronto', 'Penicillin', 170, 100);"
+212;Gala;Cackle;F;1963-09-11;Hamilton;NULL;172;93;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (212, 'Gala', 'Cackle', 'F', '1963-09-11', 'Hamilton', 'NULL', 172, 93);"
+213;Henry;Kennedy;M;1963-09-12;Windsor;Peanuts;136;59;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (213, 'Henry', 'Kennedy', 'M', '1963-09-12', 'Windsor', 'Peanuts', 136, 59);"
+214;Abi;Nesmith;F;1963-09-13;Hamilton;Penicillin;146;59;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (214, 'Abi', 'Nesmith', 'F', '1963-09-13', 'Hamilton', 'Penicillin', 146, 59);"
+215;Corrado;McGrew;M;1963-09-14;Fruitland;Penicillin;139;79;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (215, 'Corrado', 'McGrew', 'M', '1963-09-14', 'Fruitland', 'Penicillin', 139, 79);"
+216;Miles;Mace;M;1963-09-15;Brantford;NULL;175;56;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (216, 'Miles', 'Mace', 'M', '1963-09-15', 'Brantford', 'NULL', 175, 56);"
+217;Thomas;Duquesne;M;1963-09-16;Pickering;Sulpha;158;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (217, 'Thomas', 'Duquesne', 'M', '1963-09-16', 'Pickering', 'Sulpha', 158, 69);"
+218;Megan;Fidelma;F;1963-09-17;Burlington;NULL;157;71;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (218, 'Megan', 'Fidelma', 'F', '1963-09-17', 'Burlington', 'NULL', 157, 71);"
+219;Jon;Guarnaccia;M;1963-09-18;Burlington;Morphine;189;123;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (219, 'Jon', 'Guarnaccia', 'M', '1963-09-18', 'Burlington', 'Morphine', 189, 123);"
+220;Ben;Seldon;M;1963-09-19;Hamilton;Almonds;143;58;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (220, 'Ben', 'Seldon', 'M', '1963-09-19', 'Hamilton', 'Almonds', 143, 58);"
+221;Barbara;Dresden;F;1963-09-20;Brantford;Codeine;113;41;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (221, 'Barbara', 'Dresden', 'F', '1963-09-20', 'Brantford', 'Codeine', 113, 41);"
+222;Tom;Kowalski;M;1963-09-21;Dunton;Tape;173;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (222, 'Tom', 'Kowalski', 'M', '1963-09-21', 'Dunton', 'Tape', 173, 75);"
+223;Andy;Kammerer;M;1963-09-22;Hamilton;Penicillin;153;62;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (223, 'Andy', 'Kammerer', 'M', '1963-09-22', 'Hamilton', 'Penicillin', 153, 62);"
+224;Michael;Jeter;M;1963-09-23;Toronto;NULL;199;107;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (224, 'Michael', 'Jeter', 'M', '1963-09-23', 'Toronto', 'NULL', 199, 107);"
+225;Magnus;Ferrari;M;1963-09-24;Ottawa;NULL;169;99;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (225, 'Magnus', 'Ferrari', 'M', '1963-09-24', 'Ottawa', 'NULL', 169, 99);"
+226;Silvio;Nayagan;M;1963-09-25;Barrie;Penicillin;206;108;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (226, 'Silvio', 'Nayagan', 'M', '1963-09-25', 'Barrie', 'Penicillin', 206, 108);"
+227;Ellen;Wylie;F;1963-09-26;Hamilton;NULL;168;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (227, 'Ellen', 'Wylie', 'F', '1963-09-26', 'Hamilton', 'NULL', 168, 77);"
+228;Daniel;Nelson;M;1963-09-27;Halifax;Wheat;150;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (228, 'Daniel', 'Nelson', 'M', '1963-09-27', 'Halifax', 'Wheat', 150, 72);"
+229;Leonard;Sacrimoni;M;1963-09-28;Walnut Grove;NULL;91;29;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (229, 'Leonard', 'Sacrimoni', 'M', '1963-09-28', 'Walnut Grove', 'NULL', 91, 29);"
+230;Jessie;Meedhan;F;1963-09-29;Toronto;NULL;172;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (230, 'Jessie', 'Meedhan', 'F', '1963-09-29', 'Toronto', 'NULL', 172, 73);"
+231;Lester;Maximoff;M;1963-09-30;Hamilton;Penicillin;162;80;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (231, 'Lester', 'Maximoff', 'M', '1963-09-30', 'Hamilton', 'Penicillin', 162, 80);"
+232;Maggie;Price;F;1963-10-01;Hamilton;Penicillin;173;47;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (232, 'Maggie', 'Price', 'F', '1963-10-01', 'Hamilton', 'Penicillin', 173, 47);"
+233;Kay;Baldwin;F;1963-10-02;Beamsville;Codeine;164;64;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (233, 'Kay', 'Baldwin', 'F', '1963-10-02', 'Beamsville', 'Codeine', 164, 64);"
+234;Shion;Rivers;M;1963-10-03;Toronto;Penicillin;38;5;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (234, 'Shion', 'Rivers', 'M', '1963-10-03', 'Toronto', 'Penicillin', 38, 5);"
+235;Robert;Brockman;M;1963-10-04;Toronto;NULL;161;91;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (235, 'Robert', 'Brockman', 'M', '1963-10-04', 'Toronto', 'NULL', 161, 91);"
+236;Art;Fane;M;1963-10-05;Toronto;Penicillin;88;26;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (236, 'Art', 'Fane', 'M', '1963-10-05', 'Toronto', 'Penicillin', 88, 26);"
+237;Margaret;MacNeil;F;1963-10-06;Timmins;NULL;171;114;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (237, 'Margaret', 'MacNeil', 'F', '1963-10-06', 'Timmins', 'NULL', 171, 114);"
+238;Padma;Thomas;F;1963-10-07;Brockville;Tylenol;132;39;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (238, 'Padma', 'Thomas', 'F', '1963-10-07', 'Brockville', 'Tylenol', 132, 39);"
+239;Mike;Johnson;M;1963-10-08;Hamilton;NULL;158;78;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (239, 'Mike', 'Johnson', 'M', '1963-10-08', 'Hamilton', 'NULL', 158, 78);"
+240;Thomas;Matthews;M;1963-10-09;Highland;Tetracycline;216;108;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (240, 'Thomas', 'Matthews', 'M', '1963-10-09', 'Highland', 'Tetracycline', 216, 108);"
+241;Belladonna;Thomas;F;1963-10-10;Caledonia;NULL;143;59;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (241, 'Belladonna', 'Thomas', 'F', '1963-10-10', 'Caledonia', 'NULL', 143, 59);"
+242;Fancy;Rush;F;1963-10-11;Hamilton;Penicillin;156;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (242, 'Fancy', 'Rush', 'F', '1963-10-11', 'Hamilton', 'Penicillin', 156, 68);"
+243;Willie;Dingle;M;1963-10-12;Toronto;ASA;154;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (243, 'Willie', 'Dingle', 'M', '1963-10-12', 'Toronto', 'ASA', 154, 84);"
+244;Aniki;Leotardo;M;1963-10-13;Misty;Penicillin;164;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (244, 'Aniki', 'Leotardo', 'M', '1963-10-13', 'Misty', 'Penicillin', 164, 72);"
+245;Primo;Bushell;M;1963-10-14;Hamilton;NULL;187;101;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (245, 'Primo', 'Bushell', 'M', '1963-10-14', 'Hamilton', 'NULL', 187, 101);"
+246;Logan;Tao;M;1963-10-15;Ancaster;NULL;209;104;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (246, 'Logan', 'Tao', 'M', '1963-10-15', 'Ancaster', 'NULL', 209, 104);"
+247;Pilar;Adler;F;1963-10-16;Hamilton;Walnuts;181;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (247, 'Pilar', 'Adler', 'F', '1963-10-16', 'Hamilton', 'Walnuts', 181, 95);"
+248;Sarah;Daniels;F;1963-10-17;Hamilton;NULL;153;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (248, 'Sarah', 'Daniels', 'F', '1963-10-17', 'Hamilton', 'NULL', 153, 60);"
+249;Rita;Stephens;F;1963-10-18;Hamilton;NULL;172;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (249, 'Rita', 'Stephens', 'F', '1963-10-18', 'Hamilton', 'NULL', 172, 57);"
+250;Tania;McGrath;F;1963-10-19;Toronto;NULL;166;112;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (250, 'Tania', 'McGrath', 'F', '1963-10-19', 'Toronto', 'NULL', 166, 112);"
+251;Joseph;Halifax;M;1963-10-20;Hamilton;Penicillin;180;103;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (251, 'Joseph', 'Halifax', 'M', '1963-10-20', 'Hamilton', 'Penicillin', 180, 103);"
+252;Bruce;Brown;M;1963-10-21;Paris;Codeine;74;18;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (252, 'Bruce', 'Brown', 'M', '1963-10-21', 'Paris', 'Codeine', 74, 18);"
+253;Angela;Loeb;F;1963-10-22;Hamilton;NULL;75;20;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (253, 'Angela', 'Loeb', 'F', '1963-10-22', 'Hamilton', 'NULL', 75, 20);"
+254;Emil;McCrary;M;1963-10-23;Cambridge;Sulfa Drugs;149;81;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (254, 'Emil', 'McCrary', 'M', '1963-10-23', 'Cambridge', 'Sulfa Drugs', 149, 81);"
+255;Dame;McCrary;F;1963-10-24;Hamilton;Peanuts;135;43;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (255, 'Dame', 'McCrary', 'F', '1963-10-24', 'Hamilton', 'Peanuts', 135, 43);"
+256;Billie;Lowell;F;1963-10-25;Halifax;NULL;153;100;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (256, 'Billie', 'Lowell', 'F', '1963-10-25', 'Halifax', 'NULL', 153, 100);"
+257;Mitzy;Marquez;F;1963-10-26;Hamilton;Codeine;195;71;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (257, 'Mitzy', 'Marquez', 'F', '1963-10-26', 'Hamilton', 'Codeine', 195, 71);"
+258;Pilar;Languish;F;1963-10-27;Hamilton;Codeine;155;49;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (258, 'Pilar', 'Languish', 'F', '1963-10-27', 'Hamilton', 'Codeine', 155, 49);"
+259;Eloise;Evans;F;1963-10-28;Dundas;Hay Fever;155;62;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (259, 'Eloise', 'Evans', 'F', '1963-10-28', 'Dundas', 'Hay Fever', 155, 62);"
+260;Mona;Brocklehurst;F;1963-10-29;Hamilton;Codeine;175;112;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (260, 'Mona', 'Brocklehurst', 'F', '1963-10-29', 'Hamilton', 'Codeine', 175, 112);"
+261;Cordelia;Sugden;F;1963-10-30;Brantford;NULL;163;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (261, 'Cordelia', 'Sugden', 'F', '1963-10-30', 'Brantford', 'NULL', 163, 63);"
+262;Samantha;Heterodyne;F;1963-10-31;Toronto;NULL;154;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (262, 'Samantha', 'Heterodyne', 'F', '1963-10-31', 'Toronto', 'NULL', 154, 68);"
+263;Jack;Valentine;M;1963-11-01;Hamilton;NULL;208;106;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (263, 'Jack', 'Valentine', 'M', '1963-11-01', 'Hamilton', 'NULL', 208, 106);"
+264;Dante;Fuhrey;M;1963-11-02;Burlington;Penicillin;184;104;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (264, 'Dante', 'Fuhrey', 'M', '1963-11-02', 'Burlington', 'Penicillin', 184, 104);"
+265;Marvin;Dredd;M;1963-11-03;London;Sulfa;199;91;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (265, 'Marvin', 'Dredd', 'M', '1963-11-03', 'London', 'Sulfa', 199, 91);"
+266;Amy;Peth;F;1963-11-04;Whitby;NULL;171;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (266, 'Amy', 'Peth', 'F', '1963-11-04', 'Whitby', 'NULL', 171, 70);"
+267;Bill;Capone;M;1963-11-05;Milgrove;NULL;166;82;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (267, 'Bill', 'Capone', 'M', '1963-11-05', 'Milgrove', 'NULL', 166, 82);"
+268;Lora;Shannon;F;1963-11-06;Ancaster;Salicylic Acid;163;105;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (268, 'Lora', 'Shannon', 'F', '1963-11-06', 'Ancaster', 'Salicylic Acid', 163, 105);"
+269;Lindsay;Anderson;F;1963-11-07;Burlington;Sulfa;164;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (269, 'Lindsay', 'Anderson', 'F', '1963-11-07', 'Burlington', 'Sulfa', 164, 73);"
+270;Lily;Hinkley;F;1963-11-08;Stoney Creek;Sulfa;181;103;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (270, 'Lily', 'Hinkley', 'F', '1963-11-08', 'Stoney Creek', 'Sulfa', 181, 103);"
+271;Hannah;MacLeod;F;1963-11-09;Delhi;NULL;162;100;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (271, 'Hannah', 'MacLeod', 'F', '1963-11-09', 'Delhi', 'NULL', 162, 100);"
+272;Shirley;Cork;F;1963-11-10;Hamilton;Walnuts;117;44;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (272, 'Shirley', 'Cork', 'F', '1963-11-10', 'Hamilton', 'Walnuts', 117, 44);"
+273;Lora;McNulty;F;1963-11-11;Hamilton;Sulfa;133;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (273, 'Lora', 'McNulty', 'F', '1963-11-11', 'Hamilton', 'Sulfa', 133, 73);"
+274;Bruno;Kaiba;M;1963-11-12;Hamilton;Codeine;177;117;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (274, 'Bruno', 'Kaiba', 'M', '1963-11-12', 'Hamilton', 'Codeine', 177, 117);"
+275;Roberta;Leone;F;1963-11-13;Hamilton;NULL;157;100;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (275, 'Roberta', 'Leone', 'F', '1963-11-13', 'Hamilton', 'NULL', 157, 100);"
+276;Anna;Arroway;F;1963-11-14;Hamilton;Penicillin;184;104;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (276, 'Anna', 'Arroway', 'F', '1963-11-14', 'Hamilton', 'Penicillin', 184, 104);"
+277;Vladimir;Hiatt;M;1963-11-15;Fruitland;Penicillin;175;105;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (277, 'Vladimir', 'Hiatt', 'M', '1963-11-15', 'Fruitland', 'Penicillin', 175, 105);"
+278;John;Papandrao;M;1963-11-16;Toronto;Penicillin;182;108;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (278, 'John', 'Papandrao', 'M', '1963-11-16', 'Toronto', 'Penicillin', 182, 108);"
+279;Derek;Nappa;M;1963-11-17;Walnut Grove;Bee Stings;163;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (279, 'Derek', 'Nappa', 'M', '1963-11-17', 'Walnut Grove', 'Bee Stings', 163, 66);"
+280;Sandy;Crane;F;1963-11-18;North York;Penicillin;148;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (280, 'Sandy', 'Crane', 'F', '1963-11-18', 'North York', 'Penicillin', 148, 72);"
+281;Michael;ORourke;M;1963-11-19;Burlington;NULL;177;122;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (281, 'Michael', 'ORourke', 'M', '1963-11-19', 'Burlington', 'NULL', 177, 122);"
+282;Alex;Riviera;M;1963-11-20;Hamilton;NULL;189;121;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (282, 'Alex', 'Riviera', 'M', '1963-11-20', 'Hamilton', 'NULL', 189, 121);"
+283;Richard;Bigelow;M;1963-11-21;Burlington;NULL;197;114;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (283, 'Richard', 'Bigelow', 'M', '1963-11-21', 'Burlington', 'NULL', 197, 114);"
+284;Annie;Smart;F;1963-11-22;Vancouver;NULL;153;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (284, 'Annie', 'Smart', 'F', '1963-11-22', 'Vancouver', 'NULL', 153, 60);"
+285;Jack;Allgood;M;1963-11-23;Hamilton;NULL;126;53;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (285, 'Jack', 'Allgood', 'M', '1963-11-23', 'Hamilton', 'NULL', 126, 53);"
+286;John;Crockett;M;1963-11-24;Athens;NULL;187;140;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (286, 'John', 'Crockett', 'M', '1963-11-24', 'Athens', 'NULL', 187, 140);"
+287;Kima;Grissom;F;1963-11-25;Simcoe;Penicillin;140;53;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (287, 'Kima', 'Grissom', 'F', '1963-11-25', 'Simcoe', 'Penicillin', 140, 53);"
+288;Katya;Fowler;F;1963-11-26;Burlington;NULL;161;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (288, 'Katya', 'Fowler', 'F', '1963-11-26', 'Burlington', 'NULL', 161, 57);"
+289;Roger;Sanders;M;1963-11-27;Dundas;Peanuts;157;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (289, 'Roger', 'Sanders', 'M', '1963-11-27', 'Dundas', 'Peanuts', 157, 70);"
+290;Angela;Clearwater;F;1963-11-28;Hamilton;NULL;177;99;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (290, 'Angela', 'Clearwater', 'F', '1963-11-28', 'Hamilton', 'NULL', 177, 99);"
+291;Naoko;Davenport;F;1963-11-29;Hamilton;NULL;169;105;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (291, 'Naoko', 'Davenport', 'F', '1963-11-29', 'Hamilton', 'NULL', 169, 105);"
+292;Serafina;Cooper;F;1963-11-30;Hamilton;Sulfa;78;22;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (292, 'Serafina', 'Cooper', 'F', '1963-11-30', 'Hamilton', 'Sulfa', 78, 22);"
+293;Mickey;Fisk;M;1963-12-01;Hamilton;NULL;161;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (293, 'Mickey', 'Fisk', 'M', '1963-12-01', 'Hamilton', 'NULL', 161, 57);"
+294;Malma;Burbage;F;1963-12-02;Burlington;Codeine;185;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (294, 'Malma', 'Burbage', 'F', '1963-12-02', 'Burlington', 'Codeine', 185, 68);"
+295;Lyan;Heriot;M;1963-12-03;Hamilton;Penicillin;143;80;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (295, 'Lyan', 'Heriot', 'M', '1963-12-03', 'Hamilton', 'Penicillin', 143, 80);"
+296;Ted;Breaker;M;1963-12-04;Hamilton;Tape;186;76;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (296, 'Ted', 'Breaker', 'M', '1963-12-04', 'Hamilton', 'Tape', 186, 76);"
+297;Bruno;Poppins;M;1963-12-05;Brantford;NULL;188;89;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (297, 'Bruno', 'Poppins', 'M', '1963-12-05', 'Brantford', 'NULL', 188, 89);"
+298;Polly;Bennett;F;1963-12-06;Burlington;NULL;166;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (298, 'Polly', 'Bennett', 'F', '1963-12-06', 'Burlington', 'NULL', 166, 60);"
+299;Gary;Blake;M;1963-12-07;Hamilton;NULL;202;116;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (299, 'Gary', 'Blake', 'M', '1963-12-07', 'Hamilton', 'NULL', 202, 116);"
+300;Mycroft;McGee;M;1963-12-08;Ancaster;NULL;198;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (300, 'Mycroft', 'McGee', 'M', '1963-12-08', 'Ancaster', 'NULL', 198, 95);"
+301;Ricardo;Andrews;M;1963-12-09;Hamilton;NULL;177;112;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (301, 'Ricardo', 'Andrews', 'M', '1963-12-09', 'Hamilton', 'NULL', 177, 112);"
+302;Paul;Vondopoulos;M;1963-12-10;Brantford;NULL;107;36;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (302, 'Paul', 'Vondopoulos', 'M', '1963-12-10', 'Brantford', 'NULL', 107, 36);"
+303;Agnes;Parkinson;F;1963-12-11;Hamilton;Sulfa Drugs;158;47;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (303, 'Agnes', 'Parkinson', 'F', '1963-12-11', 'Hamilton', 'Sulfa Drugs', 158, 47);"
+304;Jeffrey;Pascoe;M;1963-12-12;Hamilton;Sulfa;174;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (304, 'Jeffrey', 'Pascoe', 'M', '1963-12-12', 'Hamilton', 'Sulfa', 174, 84);"
+305;Amane;Flute;F;1963-12-13;Hamilton;NULL;130;48;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (305, 'Amane', 'Flute', 'F', '1963-12-13', 'Hamilton', 'NULL', 130, 48);"
+306;Matt;Franchetti;M;1963-12-14;Burlington;Milk;157;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (306, 'Matt', 'Franchetti', 'M', '1963-12-14', 'Burlington', 'Milk', 157, 60);"
+307;Terence;Gaucho;M;1963-12-15;Hamilton;Sulfa;192;102;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (307, 'Terence', 'Gaucho', 'M', '1963-12-15', 'Hamilton', 'Sulfa', 192, 102);"
+308;Rose;Dean;F;1963-12-16;Hamilton;NULL;182;113;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (308, 'Rose', 'Dean', 'F', '1963-12-16', 'Hamilton', 'NULL', 182, 113);"
+309;Harold;Buchanan;M;1963-12-17;Toronto;NULL;186;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (309, 'Harold', 'Buchanan', 'M', '1963-12-17', 'Toronto', 'NULL', 186, 95);"
+310;Dirk;Lindley;M;1963-12-18;Burlington;Sulfa;191;109;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (310, 'Dirk', 'Lindley', 'M', '1963-12-18', 'Burlington', 'Sulfa', 191, 109);"
+311;Nico;Mason;F;1963-12-19;Hamilton;NULL;156;96;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (311, 'Nico', 'Mason', 'F', '1963-12-19', 'Hamilton', 'NULL', 156, 96);"
+312;Peter;Tennan;M;1963-12-20;Burlington;NULL;167;83;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (312, 'Peter', 'Tennan', 'M', '1963-12-20', 'Burlington', 'NULL', 167, 83);"
+313;Claire;Sprockett;F;1963-12-21;Hamilton;NULL;170;67;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (313, 'Claire', 'Sprockett', 'F', '1963-12-21', 'Hamilton', 'NULL', 170, 67);"
+314;Otis;Munson;M;1963-12-22;Hamilton;Sulfa;152;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (314, 'Otis', 'Munson', 'M', '1963-12-22', 'Hamilton', 'Sulfa', 152, 77);"
+315;Winifred;Larkin;F;1963-12-23;Brantford;NULL;39;5;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (315, 'Winifred', 'Larkin', 'F', '1963-12-23', 'Brantford', 'NULL', 39, 5);"
+316;Sam;Lester;M;1963-12-24;Hamilton;NULL;203;124;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (316, 'Sam', 'Lester', 'M', '1963-12-24', 'Hamilton', 'NULL', 203, 124);"
+317;Stella;Downs;F;1963-12-25;Stoney Creek;Micropore Tape;62;17;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (317, 'Stella', 'Downs', 'F', '1963-12-25', 'Stoney Creek', 'Micropore Tape', 62, 17);"
+318;Paul;Tau;M;1963-12-26;Hamilton;NULL;37;4;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (318, 'Paul', 'Tau', 'M', '1963-12-26', 'Hamilton', 'NULL', 37, 4);"
+319;John;McCrimmon;M;1963-12-27;Paris;NULL;195;135;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (319, 'John', 'McCrimmon', 'M', '1963-12-27', 'Paris', 'NULL', 195, 135);"
+320;Morgan;Harkness;M;1963-12-28;Hamilton;Penicillin;140;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (320, 'Morgan', 'Harkness', 'M', '1963-12-28', 'Hamilton', 'Penicillin', 140, 68);"
+321;Melanie;Rook;F;1963-12-29;Toronto;NULL;162;44;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (321, 'Melanie', 'Rook', 'F', '1963-12-29', 'Toronto', 'NULL', 162, 44);"
+322;Phryne;Milbury;F;1963-12-30;Hamilton;Penicillin;162;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (322, 'Phryne', 'Milbury', 'F', '1963-12-30', 'Hamilton', 'Penicillin', 162, 63);"
+323;Lylah;Lockwood;F;1963-12-31;Hamilton;NULL;169;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (323, 'Lylah', 'Lockwood', 'F', '1963-12-31', 'Hamilton', 'NULL', 169, 75);"
+324;Mary;Matthews;F;1964-01-01;Hamilton;NULL;163;67;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (324, 'Mary', 'Matthews', 'F', '1964-01-01', 'Hamilton', 'NULL', 163, 67);"
+325;Ben;Stracci;M;1964-01-02;Port Hawkesbury;Wheat;185;85;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (325, 'Ben', 'Stracci', 'M', '1964-01-02', 'Port Hawkesbury', 'Wheat', 185, 85);"
+326;Carol;Lenox;F;1964-01-03;Pickering;NULL;183;111;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (326, 'Carol', 'Lenox', 'F', '1964-01-03', 'Pickering', 'NULL', 183, 111);"
+327;Jane;Mars;F;1964-01-04;Hamilton;Sulfa;171;76;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (327, 'Jane', 'Mars', 'F', '1964-01-04', 'Hamilton', 'Sulfa', 171, 76);"
+328;Bo;McCoy;M;1964-01-05;Hamilton;Penicillin;126;47;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (328, 'Bo', 'McCoy', 'M', '1964-01-05', 'Hamilton', 'Penicillin', 126, 47);"
+329;Peter;Robert;M;1964-01-06;Hamilton;Penicillin;162;85;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (329, 'Peter', 'Robert', 'M', '1964-01-06', 'Hamilton', 'Penicillin', 162, 85);"
+330;Kim;Petrie;F;1964-01-07;Hamilton;NULL;153;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (330, 'Kim', 'Petrie', 'F', '1964-01-07', 'Hamilton', 'NULL', 153, 77);"
+331;Jason;Hopper;M;1964-01-08;Hamilton;NULL;187;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (331, 'Jason', 'Hopper', 'M', '1964-01-08', 'Hamilton', 'NULL', 187, 68);"
+332;Eva;Amanda;F;1964-01-09;Hamilton;Sulfa;167;123;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (332, 'Eva', 'Amanda', 'F', '1964-01-09', 'Hamilton', 'Sulfa', 167, 123);"
+333;Harry;Sofer;M;1964-01-10;Hamilton;NULL;199;122;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (333, 'Harry', 'Sofer', 'M', '1964-01-10', 'Hamilton', 'NULL', 199, 122);"
+334;Lucky;Batt;M;1964-01-11;Hamilton;Codeine;194;117;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (334, 'Lucky', 'Batt', 'M', '1964-01-11', 'Hamilton', 'Codeine', 194, 117);"
+335;Ruby;Cherrytree;F;1964-01-12;Hamilton;NULL;147;44;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (335, 'Ruby', 'Cherrytree', 'F', '1964-01-12', 'Hamilton', 'NULL', 147, 44);"
+336;Jim;Beckett;M;1964-01-13;Toronto;NULL;46;12;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (336, 'Jim', 'Beckett', 'M', '1964-01-13', 'Toronto', 'NULL', 46, 12);"
+337;Frank;Johnson;M;1964-01-14;Hamilton;Codeine;205;126;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (337, 'Frank', 'Johnson', 'M', '1964-01-14', 'Hamilton', 'Codeine', 205, 126);"
+338;Jane;Trivino;F;1964-01-15;Fruitland;Codeine;182;92;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (338, 'Jane', 'Trivino', 'F', '1964-01-15', 'Fruitland', 'Codeine', 182, 92);"
+339;Lloyd;Kennedy;M;1964-01-16;Hamilton;NULL;154;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (339, 'Lloyd', 'Kennedy', 'M', '1964-01-16', 'Hamilton', 'NULL', 154, 69);"
+340;Temple;Starsmore;F;1964-01-17;Toronto;Morphine;163;49;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (340, 'Temple', 'Starsmore', 'F', '1964-01-17', 'Toronto', 'Morphine', 163, 49);"
+341;Tuppence;Russo;F;1964-01-18;Beamsville;Codeine;152;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (341, 'Tuppence', 'Russo', 'F', '1964-01-18', 'Beamsville', 'Codeine', 152, 57);"
+342;Eloise;Craven;F;1964-01-19;Hamilton;Codeine;161;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (342, 'Eloise', 'Craven', 'F', '1964-01-19', 'Hamilton', 'Codeine', 161, 57);"
+343;Max;Sternin;M;1964-01-20;Oakville;NULL;182;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (343, 'Max', 'Sternin', 'M', '1964-01-20', 'Oakville', 'NULL', 182, 68);"
+344;Bryan;Skywalker;M;1964-01-21;Barrie;NULL;186;80;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (344, 'Bryan', 'Skywalker', 'M', '1964-01-21', 'Barrie', 'NULL', 186, 80);"
+345;Cordelia;Hanson;F;1964-01-22;Hamilton;NULL;155;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (345, 'Cordelia', 'Hanson', 'F', '1964-01-22', 'Hamilton', 'NULL', 155, 68);"
+346;Stephen;Hajime;M;1964-01-23;Burlington;Sulfa Drugs;160;80;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (346, 'Stephen', 'Hajime', 'M', '1964-01-23', 'Burlington', 'Sulfa Drugs', 160, 80);"
+347;Andromeda;Steiger;F;1964-01-24;Burlington;Penicillin Environmental;201;79;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (347, 'Andromeda', 'Steiger', 'F', '1964-01-24', 'Burlington', 'Penicillin Environmental', 201, 79);"
+348;Danny;Magnus;M;1964-01-25;Hamilton;NULL;54;13;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (348, 'Danny', 'Magnus', 'M', '1964-01-25', 'Hamilton', 'NULL', 54, 13);"
+349;Ted;OHara;M;1964-01-26;Dunnville;NULL;130;47;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (349, 'Ted', 'OHara', 'M', '1964-01-26', 'Dunnville', 'NULL', 130, 47);"
+350;Elisa;Burbank;F;1964-01-27;Dunton;Wheat;177;117;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (350, 'Elisa', 'Burbank', 'F', '1964-01-27', 'Dunton', 'Wheat', 177, 117);"
+351;Ezri;Petrie;F;1964-01-28;Niagara Falls;NULL;180;83;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (351, 'Ezri', 'Petrie', 'F', '1964-01-28', 'Niagara Falls', 'NULL', 180, 83);"
+352;Peter;Rook;M;1964-01-29;Hamilton;NULL;163;88;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (352, 'Peter', 'Rook', 'M', '1964-01-29', 'Hamilton', 'NULL', 163, 88);"
+353;David;Schultz;M;1964-01-30;Hamilton;NULL;136;76;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (353, 'David', 'Schultz', 'M', '1964-01-30', 'Hamilton', 'NULL', 136, 76);"
+354;Belinda;Leone;F;1964-01-31;Hamilton;Codeine;150;67;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (354, 'Belinda', 'Leone', 'F', '1964-01-31', 'Hamilton', 'Codeine', 150, 67);"
+355;Mike;Hammer;M;1964-02-01;Kingston;Penicillin;141;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (355, 'Mike', 'Hammer', 'M', '1964-02-01', 'Kingston', 'Penicillin', 141, 63);"
+356;Guy;Shimura;M;1964-02-02;Red River;NULL;172;83;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (356, 'Guy', 'Shimura', 'M', '1964-02-02', 'Red River', 'NULL', 172, 83);"
+357;Vance;Weathers;M;1964-02-03;Hamilton;Codeine;130;47;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (357, 'Vance', 'Weathers', 'M', '1964-02-03', 'Hamilton', 'Codeine', 130, 47);"
+358;Mary;Knight;F;1964-02-04;Hamilton;Penicillin;76;21;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (358, 'Mary', 'Knight', 'F', '1964-02-04', 'Hamilton', 'Penicillin', 76, 21);"
+359;Joe;Snyder;M;1964-02-05;Hamilton;Penicillin;224;130;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (359, 'Joe', 'Snyder', 'M', '1964-02-05', 'Hamilton', 'Penicillin', 224, 130);"
+360;Jadu;Principal;F;1964-02-06;Hamilton;Iodine;167;94;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (360, 'Jadu', 'Principal', 'F', '1964-02-06', 'Hamilton', 'Iodine', 167, 94);"
+361;Marshal;Hawkes;M;1964-02-07;Hamilton;NULL;152;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (361, 'Marshal', 'Hawkes', 'M', '1964-02-07', 'Hamilton', 'NULL', 152, 57);"
+362;Noike;Jarvik;F;1964-02-08;Hamilton;NULL;174;98;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (362, 'Noike', 'Jarvik', 'F', '1964-02-08', 'Hamilton', 'NULL', 174, 98);"
+363;Cedric;Morgan;M;1964-02-09;Hamilton;NULL;197;86;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (363, 'Cedric', 'Morgan', 'M', '1964-02-09', 'Hamilton', 'NULL', 197, 86);"
+364;Robin;McCabe;F;1964-02-10;Grimsby;Codeine;173;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (364, 'Robin', 'McCabe', 'F', '1964-02-10', 'Grimsby', 'Codeine', 173, 65);"
+365;Angelica;Dalton;F;1964-02-11;Hamilton;NULL;148;49;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (365, 'Angelica', 'Dalton', 'F', '1964-02-11', 'Hamilton', 'NULL', 148, 49);"
+366;Vernon;Halliwell;M;1964-02-12;Hamilton;NULL;147;74;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (366, 'Vernon', 'Halliwell', 'M', '1964-02-12', 'Hamilton', 'NULL', 147, 74);"
+367;Chuny;Jenkins;F;1964-02-13;Paris;NULL;146;38;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (367, 'Chuny', 'Jenkins', 'F', '1964-02-13', 'Paris', 'NULL', 146, 38);"
+368;Claire;Barrie;F;1964-02-14;Hamilton;NULL;178;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (368, 'Claire', 'Barrie', 'F', '1964-02-14', 'Hamilton', 'NULL', 178, 110);"
+369;Rocky;Kavanaugh;M;1964-02-15;Stoney Creek;Sulfa Drugs;195;108;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (369, 'Rocky', 'Kavanaugh', 'M', '1964-02-15', 'Stoney Creek', 'Sulfa Drugs', 195, 108);"
+370;Juliet;Walker;F;1964-02-16;Hamilton;NULL;152;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (370, 'Juliet', 'Walker', 'F', '1964-02-16', 'Hamilton', 'NULL', 152, 73);"
+371;Lydia;Carver;F;1964-02-17;Victoria;NULL;176;87;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (371, 'Lydia', 'Carver', 'F', '1964-02-17', 'Victoria', 'NULL', 176, 87);"
+372;Don;Vallance;M;1964-02-18;Hamilton;Penicillin;139;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (372, 'Don', 'Vallance', 'M', '1964-02-18', 'Hamilton', 'Penicillin', 139, 73);"
+373;Valerie;Fraser;F;1964-02-19;Brantford;Penicillin;139;74;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (373, 'Valerie', 'Fraser', 'F', '1964-02-19', 'Brantford', 'Penicillin', 139, 74);"
+374;Melinda;Boxer;F;1964-02-20;Cambridge;NULL;182;103;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (374, 'Melinda', 'Boxer', 'F', '1964-02-20', 'Cambridge', 'NULL', 182, 103);"
+375;Jack;Renault;M;1964-02-21;Hamilton;Penicillin;142;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (375, 'Jack', 'Renault', 'M', '1964-02-21', 'Hamilton', 'Penicillin', 142, 69);"
+376;Rose;Morris;F;1964-02-22;Grimsby;Codeine;176;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (376, 'Rose', 'Morris', 'F', '1964-02-22', 'Grimsby', 'Codeine', 176, 84);"
+377;Lew;Vondopoulos;M;1964-02-23;Hamilton;NULL;156;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (377, 'Lew', 'Vondopoulos', 'M', '1964-02-23', 'Hamilton', 'NULL', 156, 84);"
+378;Henrieta;ORourke;F;1964-02-24;Carisle;Sulfa;149;54;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (378, 'Henrieta', 'ORourke', 'F', '1964-02-24', 'Carisle', 'Sulfa', 149, 54);"
+379;Barney;Atwater;M;1964-02-25;Hamilton;NULL;140;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (379, 'Barney', 'Atwater', 'M', '1964-02-25', 'Hamilton', 'NULL', 140, 69);"
+380;Laura;March;F;1964-02-26;Vancouver;NULL;187;114;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (380, 'Laura', 'March', 'F', '1964-02-26', 'Vancouver', 'NULL', 187, 114);"
+381;Jon;Landsman;M;1964-02-27;North York;NULL;198;131;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (381, 'Jon', 'Landsman', 'M', '1964-02-27', 'North York', 'NULL', 198, 131);"
+382;Truman;Lockwood;M;1964-02-28;Hamilton;Almonds;168;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (382, 'Truman', 'Lockwood', 'M', '1964-02-28', 'Hamilton', 'Almonds', 168, 72);"
+383;Narcissa;Shore;F;1964-02-29;Hamilton;Penicillin;133;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (383, 'Narcissa', 'Shore', 'F', '1964-02-29', 'Hamilton', 'Penicillin', 133, 72);"
+384;Truman;Kennedy;M;1964-03-01;Timmins;NULL;185;119;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (384, 'Truman', 'Kennedy', 'M', '1964-03-01', 'Timmins', 'NULL', 185, 119);"
+385;Ernest;Poirot;M;1964-03-02;Hamilton;NULL;155;91;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (385, 'Ernest', 'Poirot', 'M', '1964-03-02', 'Hamilton', 'NULL', 155, 91);"
+386;Adam;Stillman;M;1964-03-03;Hamilton;Shellfish;162;82;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (386, 'Adam', 'Stillman', 'M', '1964-03-03', 'Hamilton', 'Shellfish', 162, 82);"
+387;Vicki;Jonas;F;1964-03-04;Hamilton;NULL;96;20;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (387, 'Vicki', 'Jonas', 'F', '1964-03-04', 'Hamilton', 'NULL', 96, 20);"
+388;Kurt;Beltzer;M;1964-03-05;Hamilton;NULL;190;103;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (388, 'Kurt', 'Beltzer', 'M', '1964-03-05', 'Hamilton', 'NULL', 190, 103);"
+389;Abe;Osborne;M;1964-03-06;Hamilton;Almonds;190;104;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (389, 'Abe', 'Osborne', 'M', '1964-03-06', 'Hamilton', 'Almonds', 190, 104);"
+390;Violet;Arden;F;1964-03-07;Burlington;ASA;146;50;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (390, 'Violet', 'Arden', 'F', '1964-03-07', 'Burlington', 'ASA', 146, 50);"
+391;Kingo;Frye;M;1964-03-08;Carisle;NULL;170;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (391, 'Kingo', 'Frye', 'M', '1964-03-08', 'Carisle', 'NULL', 170, 63);"
+392;Walter;Harkness;M;1964-03-09;Brampton;Penicillin;179;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (392, 'Walter', 'Harkness', 'M', '1964-03-09', 'Brampton', 'Penicillin', 179, 65);"
+393;Herr;Hinkley;M;1964-03-10;Hamilton;ASA;194;98;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (393, 'Herr', 'Hinkley', 'M', '1964-03-10', 'Hamilton', 'ASA', 194, 98);"
+394;Buzz;Vajda;M;1964-03-11;Stoney Creek;NULL;137;62;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (394, 'Buzz', 'Vajda', 'M', '1964-03-11', 'Stoney Creek', 'NULL', 137, 62);"
+395;James;Ichi;M;1964-03-12;Hamilton;Sulfa;196;89;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (395, 'James', 'Ichi', 'M', '1964-03-12', 'Hamilton', 'Sulfa', 196, 89);"
+396;Rick;Mowbray;M;1964-03-13;Ajax;NULL;201;123;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (396, 'Rick', 'Mowbray', 'M', '1964-03-13', 'Ajax', 'NULL', 201, 123);"
+397;Leona;Hernandez;F;1964-03-14;Hamilton;NULL;167;58;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (397, 'Leona', 'Hernandez', 'F', '1964-03-14', 'Hamilton', 'NULL', 167, 58);"
+398;Goldie;Tennan;F;1964-03-15;Burlington;Penicillin;160;59;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (398, 'Goldie', 'Tennan', 'F', '1964-03-15', 'Burlington', 'Penicillin', 160, 59);"
+399;Alice;Bennett;F;1964-03-16;Hamilton;Codeine;162;91;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (399, 'Alice', 'Bennett', 'F', '1964-03-16', 'Hamilton', 'Codeine', 162, 91);"
+400;Cordelia;Belden;F;1964-03-17;Hamilton;NULL;45;10;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (400, 'Cordelia', 'Belden', 'F', '1964-03-17', 'Hamilton', 'NULL', 45, 10);"
+401;Kate;Mason;F;1964-03-18;Bancroft;Sulpha;175;67;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (401, 'Kate', 'Mason', 'F', '1964-03-18', 'Bancroft', 'Sulpha', 175, 67);"
+402;Tony;Smith;M;1964-03-19;Sarnia;Penicillin;214;95;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (402, 'Tony', 'Smith', 'M', '1964-03-19', 'Sarnia', 'Penicillin', 214, 95);"
+403;Miles;McClure;M;1964-03-20;Hamilton;Penicillin;210;116;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (403, 'Miles', 'McClure', 'M', '1964-03-20', 'Hamilton', 'Penicillin', 210, 116);"
+404;Grace;Yurinov;F;1964-03-21;Hamilton;NULL;184;121;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (404, 'Grace', 'Yurinov', 'F', '1964-03-21', 'Hamilton', 'NULL', 184, 121);"
+405;Katya;Sato;F;1964-03-22;Orillia;NULL;141;43;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (405, 'Katya', 'Sato', 'F', '1964-03-22', 'Orillia', 'NULL', 141, 43);"
+406;Samantha;Dobbs;F;1964-03-23;Hamilton;Penicillin;49;11;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (406, 'Samantha', 'Dobbs', 'F', '1964-03-23', 'Hamilton', 'Penicillin', 49, 11);"
+407;Jessica;Kent;F;1964-03-24;Hamilton;NULL;159;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (407, 'Jessica', 'Kent', 'F', '1964-03-24', 'Hamilton', 'NULL', 159, 110);"
+408;Victoire;Jonas;F;1964-03-25;Milton;Penicillin;163;97;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (408, 'Victoire', 'Jonas', 'F', '1964-03-25', 'Milton', 'Penicillin', 163, 97);"
+409;Julius;Montalbano;M;1964-03-26;Delhi;NULL;127;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (409, 'Julius', 'Montalbano', 'M', '1964-03-26', 'Delhi', 'NULL', 127, 60);"
+410;Lori;Warner;F;1964-03-27;Hamilton;Penicillin;184;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (410, 'Lori', 'Warner', 'F', '1964-03-27', 'Hamilton', 'Penicillin', 184, 70);"
+411;O-Ren;Baldi;F;1964-03-28;Niagara Falls;NULL;115;34;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (411, 'O-Ren', 'Baldi', 'F', '1964-03-28', 'Niagara Falls', 'NULL', 115, 34);"
+412;Simon;Dresden;M;1964-03-29;Stoney Creek;Valporic Acid;220;125;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (412, 'Simon', 'Dresden', 'M', '1964-03-29', 'Stoney Creek', 'Valporic Acid', 220, 125);"
+413;Lonnie;Bulstrode;M;1964-03-30;Kingston;Penicillin;80;27;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (413, 'Lonnie', 'Bulstrode', 'M', '1964-03-30', 'Kingston', 'Penicillin', 80, 27);"
+414;Rob;Mackey;M;1964-03-31;Stoney Creek;Tylenol;187;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (414, 'Rob', 'Mackey', 'M', '1964-03-31', 'Stoney Creek', 'Tylenol', 187, 84);"
+415;John;Hill;M;1964-04-01;Hamilton;Sulfa;195;104;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (415, 'John', 'Hill', 'M', '1964-04-01', 'Hamilton', 'Sulfa', 195, 104);"
+416;Janice;John;F;1964-04-02;Troy;Sulfa;163;61;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (416, 'Janice', 'John', 'F', '1964-04-02', 'Troy', 'Sulfa', 163, 61);"
+417;Elizabeth;Spencer;F;1964-04-03;Stoney Creek;NULL;160;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (417, 'Elizabeth', 'Spencer', 'F', '1964-04-03', 'Stoney Creek', 'NULL', 160, 63);"
+418;Bertha;Martin;F;1964-04-04;Orangeville;NULL;131;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (418, 'Bertha', 'Martin', 'F', '1964-04-04', 'Orangeville', 'NULL', 131, 69);"
+419;Walburga;Masaki;F;1964-04-05;Brantford;NULL;151;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (419, 'Walburga', 'Masaki', 'F', '1964-04-05', 'Brantford', 'NULL', 151, 73);"
+420;Velu;Galv�n;M;1964-04-06;Walnut Grove;NULL;59;15;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (420, 'Velu', 'Galv�n', 'M', '1964-04-06', 'Walnut Grove', 'NULL', 59, 15);"
+421;Eben;Quest;M;1964-04-07;Hamilton;NULL;143;78;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (421, 'Eben', 'Quest', 'M', '1964-04-07', 'Hamilton', 'NULL', 143, 78);"
+422;Penelope;Taggart;F;1964-04-08;Hamilton;Penicillin;131;69;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (422, 'Penelope', 'Taggart', 'F', '1964-04-08', 'Hamilton', 'Penicillin', 131, 69);"
+423;Vicki;Cenva;F;1964-04-09;Hamilton;Penicillin;167;94;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (423, 'Vicki', 'Cenva', 'F', '1964-04-09', 'Hamilton', 'Penicillin', 167, 94);"
+424;Richard;Wyatt;M;1964-04-10;Marcam;NULL;188;101;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (424, 'Richard', 'Wyatt', 'M', '1964-04-10', 'Marcam', 'NULL', 188, 101);"
+425;Barney;Smith;M;1964-04-11;Hamilton;NULL;162;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (425, 'Barney', 'Smith', 'M', '1964-04-11', 'Hamilton', 'NULL', 162, 68);"
+426;Patricia;Rose;F;1964-04-12;Hamilton;NULL;179;92;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (426, 'Patricia', 'Rose', 'F', '1964-04-12', 'Hamilton', 'NULL', 179, 92);"
+427;Colleen;Scott;F;1964-04-13;Hamilton;NULL;134;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (427, 'Colleen', 'Scott', 'F', '1964-04-13', 'Hamilton', 'NULL', 134, 66);"
+428;Ann;Flowerstink;F;1964-04-14;Paris;NULL;171;101;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (428, 'Ann', 'Flowerstink', 'F', '1964-04-14', 'Paris', 'NULL', 171, 101);"
+429;John;Grissom;M;1964-04-15;Waterford;NULL;215;126;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (429, 'John', 'Grissom', 'M', '1964-04-15', 'Waterford', 'NULL', 215, 126);"
+430;Grant;Halliwell;M;1964-04-16;Marcam;Penicillin;175;73;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (430, 'Grant', 'Halliwell', 'M', '1964-04-16', 'Marcam', 'Penicillin', 175, 73);"
+431;Miles;Quince;M;1964-04-17;Hamilton;Tylenol;166;127;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (431, 'Miles', 'Quince', 'M', '1964-04-17', 'Hamilton', 'Tylenol', 166, 127);"
+432;Jeff;Powers;M;1964-04-18;Pickering;ASA;150;83;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (432, 'Jeff', 'Powers', 'M', '1964-04-18', 'Pickering', 'ASA', 150, 83);"
+433;Adam;Hecatonchires;M;1964-04-19;Hamilton;Penicillin;162;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (433, 'Adam', 'Hecatonchires', 'M', '1964-04-19', 'Hamilton', 'Penicillin', 162, 75);"
+434;Nicky;Shimura;M;1964-04-20;London;NULL;92;39;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (434, 'Nicky', 'Shimura', 'M', '1964-04-20', 'London', 'NULL', 92, 39);"
+435;Pamela;Belden;F;1964-04-21;Ancaster;Hay Fever;108;31;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (435, 'Pamela', 'Belden', 'F', '1964-04-21', 'Ancaster', 'Hay Fever', 108, 31);"
+436;Gil;Sigel;M;1964-04-22;Burlington;NULL;146;70;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (436, 'Gil', 'Sigel', 'M', '1964-04-22', 'Burlington', 'NULL', 146, 70);"
+437;Gordon;Swift;M;1964-04-23;Winona;NULL;192;115;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (437, 'Gordon', 'Swift', 'M', '1964-04-23', 'Winona', 'NULL', 192, 115);"
+438;Julie;Bonasera;F;1964-04-24;Burlington;Penicillin;174;77;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (438, 'Julie', 'Bonasera', 'F', '1964-04-24', 'Burlington', 'Penicillin', 174, 77);"
+439;Licio;Lupertazzi;M;1964-04-25;Stoney Creek;Penicillin;127;88;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (439, 'Licio', 'Lupertazzi', 'M', '1964-04-25', 'Stoney Creek', 'Penicillin', 127, 88);"
+440;Pablo;Treskovna;M;1964-04-26;Hamilton;NULL;157;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (440, 'Pablo', 'Treskovna', 'M', '1964-04-26', 'Hamilton', 'NULL', 157, 60);"
+441;Winnie;Clock;F;1964-04-27;Barrie;Penicillin;110;37;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (441, 'Winnie', 'Clock', 'F', '1964-04-27', 'Barrie', 'Penicillin', 110, 37);"
+442;Mickey;Heath;M;1964-04-28;Brantford;Penicillin;176;99;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (442, 'Mickey', 'Heath', 'M', '1964-04-28', 'Brantford', 'Penicillin', 176, 99);"
+443;Lisa;Baasha;F;1964-04-29;Delhi;NULL;174;71;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (443, 'Lisa', 'Baasha', 'F', '1964-04-29', 'Delhi', 'NULL', 174, 71);"
+444;Marvin;Jaffe;M;1964-04-30;Orangeville;NULL;215;112;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (444, 'Marvin', 'Jaffe', 'M', '1964-04-30', 'Orangeville', 'NULL', 215, 112);"
+445;Wayne;Neutron;M;1964-05-01;Hamilton;Penicillin;170;92;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (445, 'Wayne', 'Neutron', 'M', '1964-05-01', 'Hamilton', 'Penicillin', 170, 92);"
+446;Jane;Goodspeed;F;1964-05-02;Barrie;NULL;162;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (446, 'Jane', 'Goodspeed', 'F', '1964-05-02', 'Barrie', 'NULL', 162, 66);"
+447;Kiriko;Baasha;F;1964-05-03;Ajax;NULL;169;64;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (447, 'Kiriko', 'Baasha', 'F', '1964-05-03', 'Ajax', 'NULL', 169, 64);"
+448;Wellington;Torres;M;1964-05-04;Guelph;Penicillin;192;122;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (448, 'Wellington', 'Torres', 'M', '1964-05-04', 'Guelph', 'Penicillin', 192, 122);"
+449;Claudia;Vimes;F;1964-05-05;Hamilton;Seafood;140;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (449, 'Claudia', 'Vimes', 'F', '1964-05-05', 'Hamilton', 'Seafood', 140, 65);"
+450;Celestina;Bonasera;F;1964-05-06;Hamilton;Acetaminophen;151;46;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (450, 'Celestina', 'Bonasera', 'F', '1964-05-06', 'Hamilton', 'Acetaminophen', 151, 46);"
+451;Peter;PiNeiro;M;1964-05-07;Dunnville;NULL;123;44;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (451, 'Peter', 'PiNeiro', 'M', '1964-05-07', 'Dunnville', 'NULL', 123, 44);"
+452;Vincent;Blackwood;M;1964-05-08;Hamilton;Penicillin;165;71;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (452, 'Vincent', 'Blackwood', 'M', '1964-05-08', 'Hamilton', 'Penicillin', 165, 71);"
+453;Milo;Holliwell;M;1964-05-09;Red River;Penicillin;166;74;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (453, 'Milo', 'Holliwell', 'M', '1964-05-09', 'Red River', 'Penicillin', 166, 74);"
+454;Samantha;Dean;F;1964-05-10;Hamilton;Sulfa;151;76;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (454, 'Samantha', 'Dean', 'F', '1964-05-10', 'Hamilton', 'Sulfa', 151, 76);"
+455;Mercedes;Heat;F;1964-05-11;Hamilton;NULL;160;62;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (455, 'Mercedes', 'Heat', 'F', '1964-05-11', 'Hamilton', 'NULL', 160, 62);"
+456;Beppe;Sigel;M;1964-05-12;Hamilton;NULL;159;78;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (456, 'Beppe', 'Sigel', 'M', '1964-05-12', 'Hamilton', 'NULL', 159, 78);"
+457;Nero;Archer;M;1964-05-13;Brantford;Penicillin;186;75;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (457, 'Nero', 'Archer', 'M', '1964-05-13', 'Brantford', 'Penicillin', 186, 75);"
+458;Joseph;Miller;M;1964-05-14;Hamilton;NULL;150;87;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (458, 'Joseph', 'Miller', 'M', '1964-05-14', 'Hamilton', 'NULL', 150, 87);"
+459;Mickey;Drama;M;1964-05-15;Toronto;Penicillin;190;110;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (459, 'Mickey', 'Drama', 'M', '1964-05-15', 'Toronto', 'Penicillin', 190, 110);"
+460;Gerard;Holloway;M;1964-05-16;Hamilton;NULL;194;126;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (460, 'Gerard', 'Holloway', 'M', '1964-05-16', 'Hamilton', 'NULL', 194, 126);"
+461;Mary;Bigelow;F;1964-05-17;Toronto;Codeine;174;103;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (461, 'Mary', 'Bigelow', 'F', '1964-05-17', 'Toronto', 'Codeine', 174, 103);"
+462;Anna;Olemaun;F;1964-05-18;Brampton;Almonds;42;5;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (462, 'Anna', 'Olemaun', 'F', '1964-05-18', 'Brampton', 'Almonds', 42, 5);"
+463;Hayley;McArthur;F;1964-05-19;Hamilton;Penicillin;62;14;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (463, 'Hayley', 'McArthur', 'F', '1964-05-19', 'Hamilton', 'Penicillin', 62, 14);"
+464;Alice;Jones;F;1964-05-20;Dundas;Sulfa Drugs;179;84;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (464, 'Alice', 'Jones', 'F', '1964-05-20', 'Dundas', 'Sulfa Drugs', 179, 84);"
+465;Luis;Rosenberg;M;1964-05-21;Calgary;NULL;180;122;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (465, 'Luis', 'Rosenberg', 'M', '1964-05-21', 'Calgary', 'NULL', 180, 122);"
+466;Trixie;Lockwood;F;1964-05-22;Hamilton;Codeine;169;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (466, 'Trixie', 'Lockwood', 'F', '1964-05-22', 'Hamilton', 'Codeine', 169, 65);"
+467;Louie;Wong;M;1964-05-23;Delhi;Penicillin;122;46;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (467, 'Louie', 'Wong', 'M', '1964-05-23', 'Delhi', 'Penicillin', 122, 46);"
+468;Frank;Anderson;M;1964-05-24;Hamilton;Penicillin;137;43;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (468, 'Frank', 'Anderson', 'M', '1964-05-24', 'Hamilton', 'Penicillin', 137, 43);"
+469;Tally;Nichols;F;1964-05-25;Stoney Creek;Valporic Acid;172;85;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (469, 'Tally', 'Nichols', 'F', '1964-05-25', 'Stoney Creek', 'Valporic Acid', 172, 85);"
+470;Agnes;Waterfield;F;1964-05-26;Ancaster;NULL;155;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (470, 'Agnes', 'Waterfield', 'F', '1964-05-26', 'Ancaster', 'NULL', 155, 65);"
+471;Polly;Vallance;F;1964-05-27;Hamilton;NULL;150;67;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (471, 'Polly', 'Vallance', 'F', '1964-05-27', 'Hamilton', 'NULL', 150, 67);"
+472;Ethan;Maureen;M;1964-05-28;London;Penicillin;179;120;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (472, 'Ethan', 'Maureen', 'M', '1964-05-28', 'London', 'Penicillin', 179, 120);"
+473;Roderick;Eckhart;M;1964-05-29;Windsor;Tylenol;178;103;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (473, 'Roderick', 'Eckhart', 'M', '1964-05-29', 'Windsor', 'Tylenol', 178, 103);"
+474;John;Olsen;M;1964-05-30;Stoney Creek;NULL;220;106;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (474, 'John', 'Olsen', 'M', '1964-05-30', 'Stoney Creek', 'NULL', 220, 106);"
+475;Sharon;Grissom;F;1964-05-31;Fruitland;Penicillin;137;72;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (475, 'Sharon', 'Grissom', 'F', '1964-05-31', 'Fruitland', 'Penicillin', 137, 72);"
+476;Natsumi;Totenkinder;F;1964-06-01;Hamilton;NULL;136;56;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (476, 'Natsumi', 'Totenkinder', 'F', '1964-06-01', 'Hamilton', 'NULL', 136, 56);"
+477;Katie;Maigret;F;1964-06-02;Hamilton;Penicillin;168;92;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (477, 'Katie', 'Maigret', 'F', '1964-06-02', 'Hamilton', 'Penicillin', 168, 92);"
+478;Tom;Pike;M;1964-06-03;Dunnville;NULL;142;89;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (478, 'Tom', 'Pike', 'M', '1964-06-03', 'Dunnville', 'NULL', 142, 89);"
+479;Narcissa;Hanover;F;1964-06-04;Ancaster;NULL;144;80;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (479, 'Narcissa', 'Hanover', 'F', '1964-06-04', 'Ancaster', 'NULL', 144, 80);"
+480;Melinda;Travis;F;1964-06-05;Dunton;Penicillin;175;107;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (480, 'Melinda', 'Travis', 'F', '1964-06-05', 'Dunton', 'Penicillin', 175, 107);"
+481;Tom;Lovegood;M;1964-06-06;Toronto;Penicillin;148;80;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (481, 'Tom', 'Lovegood', 'M', '1964-06-06', 'Toronto', 'Penicillin', 148, 80);"
+482;Teddy;Melinda;M;1964-06-07;Hamilton;NULL;152;59;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (482, 'Teddy', 'Melinda', 'M', '1964-06-07', 'Hamilton', 'NULL', 152, 59);"
+483;Ana;Clancy;F;1964-06-08;Hamilton;Penicillin;143;52;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (483, 'Ana', 'Clancy', 'F', '1964-06-08', 'Hamilton', 'Penicillin', 143, 52);"
+484;Ismael;Brearly;M;1964-06-09;Hamilton;NULL;202;112;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (484, 'Ismael', 'Brearly', 'M', '1964-06-09', 'Hamilton', 'NULL', 202, 112);"
+485;Dominic;Poppins;M;1964-06-10;Red River;NULL;190;108;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (485, 'Dominic', 'Poppins', 'M', '1964-06-10', 'Red River', 'NULL', 190, 108);"
+486;Tony;Lamb;M;1964-06-11;Burlington;NULL;191;124;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (486, 'Tony', 'Lamb', 'M', '1964-06-11', 'Burlington', 'NULL', 191, 124);"
+487;Kurt;Sanderson;M;1964-06-12;Toronto;Sulfa;192;109;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (487, 'Kurt', 'Sanderson', 'M', '1964-06-12', 'Toronto', 'Sulfa', 192, 109);"
+488;Mrs;Willows;F;1964-06-13;Hamilton;NULL;163;64;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (488, 'Mrs', 'Willows', 'F', '1964-06-13', 'Hamilton', 'NULL', 163, 64);"
+489;Hercule;Kuramitsu;M;1964-06-14;Hamilton;NULL;192;126;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (489, 'Hercule', 'Kuramitsu', 'M', '1964-06-14', 'Hamilton', 'NULL', 192, 126);"
+490;Jennifer;McKinnon;F;1964-06-15;Brantford;Penicillin;159;63;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (490, 'Jennifer', 'McKinnon', 'F', '1964-06-15', 'Brantford', 'Penicillin', 159, 63);"
+491;Herb;Bloom-Wood;M;1964-06-16;Hamilton;NULL;178;102;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (491, 'Herb', 'Bloom-Wood', 'M', '1964-06-16', 'Hamilton', 'NULL', 178, 102);"
+492;David;White;M;1964-06-17;Hamilton;Penicillin;156;87;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (492, 'David', 'White', 'M', '1964-06-17', 'Hamilton', 'Penicillin', 156, 87);"
+493;Margaret;Nolan;F;1964-06-18;Calgary;Codeine;138;57;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (493, 'Margaret', 'Nolan', 'F', '1964-06-18', 'Calgary', 'Codeine', 138, 57);"
+494;Amy;McFly;F;1964-06-19;Burlington;Penicillin;156;65;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (494, 'Amy', 'McFly', 'F', '1964-06-19', 'Burlington', 'Penicillin', 156, 65);"
+495;Cindy;Randall;F;1964-06-20;Oakville;Honey;144;68;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (495, 'Cindy', 'Randall', 'F', '1964-06-20', 'Oakville', 'Honey', 144, 68);"
+496;Spiros;Mangel;M;1964-06-21;Oakville;Sulfa;177;131;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (496, 'Spiros', 'Mangel', 'M', '1964-06-21', 'Oakville', 'Sulfa', 177, 131);"
+497;Louie;Sydnor;M;1964-06-22;Toronto;NULL;81;26;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (497, 'Louie', 'Sydnor', 'M', '1964-06-22', 'Toronto', 'NULL', 81, 26);"
+498;Morgan;Brennan;M;1964-06-23;Hamilton;Bee Stings;174;60;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (498, 'Morgan', 'Brennan', 'M', '1964-06-23', 'Hamilton', 'Bee Stings', 174, 60);"
+499;Jessica;Owens;F;1964-06-24;Dundas;NULL;123;50;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (499, 'Jessica', 'Owens', 'F', '1964-06-24', 'Dundas', 'NULL', 123, 50);"
+500;Emma;Brandon;F;1964-06-25;Burlington;NULL;188;66;"insert into pasient (id, fornavn, etternavn, kjoenn, foedselsdato, sted, allergier, hoeyde, vekt) values (500, 'Emma', 'Brandon', 'F', '1964-06-25', 'Burlington', 'NULL', 188, 66);"
