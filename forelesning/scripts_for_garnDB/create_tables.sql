@@ -1,46 +1,51 @@
-create table garn(
-id int auto_increment not null,
-produsent_id int,
-navn varchar(20) not null,
-vekt int not null,
-pinnestr decimal(3,1) not null,
-strikkefasthet int not null,
-loepelengde int not null,
-primary key (id),
-foreign key (produsent_id) references produsent(id)
+CREATE SCHEMA if not exists `garn` DEFAULT CHARACTER SET utf8 COLLATE utf8_bin ;
+
+CREATE TABLE produsent (
+	id INT NOT NULL,
+	navn VARCHAR(20),
+    PRIMARY KEY (id)
 );
 
-create table produsent(
-id int not null,
-navn varchar(20) not null,
-primary key (id) 
+CREATE TABLE fiber (
+	id INT AUTO_INCREMENT NOT NULL,
+	type VARCHAR(10),
+    PRIMARY KEY (id)
 );
 
-create table fiber(
-id int auto_increment not null,
-type varchar(10) not null,
-primary key (id)
+INSERT INTO fiber (type)
+VALUES ('Alpakka');
+
+CREATE TABLE garn (
+	id INT AUTO_INCREMENT NOT NULL,
+	produsent_id INT,
+    navn VARCHAR(20),
+    vekt INT,
+    pinnestr DECIMAL(3,1),
+    strikkefasthet INT,
+    lopelengde INT,
+    PRIMARY KEY (id),
+    FOREIGN KEY (produsent_id) REFERENCES produsent (id)
 );
 
-create table garn_har_fiber(
-garn_id int,
-fiber_id int,
-prosent int,
-primary key (garn_id,fiber_id),
-foreign key (garn_id) references garn(id),
-foreign key (fiber_id) references fiber(id)
+CREATE TABLE garn_har_fiber (
+	garn INT,
+    fiber INT,
+    prosent INT,
+    PRIMARY KEY (garn, fiber),
+    FOREIGN KEY (garn) REFERENCES garn (id),
+    FOREIGN KEY (fiber) REFERENCES fiber (id)
 );
 
-create table farge(
-nummer int not null,
-navn varchar(10) not null,
-primary key (nummer)
+CREATE TABLE farge (
+	nummer INT,
+    navn VARCHAR(15),
+    PRIMARY KEY (nummer)
 );
 
-create table garn_har_farge(
-garn_id int,
-farge_nr int,
-primary key (garn_id,farge_nr),
-foreign key (garn_id) references garn(id),
-foreign key (farge_nr) references farge(nummer)
+CREATE TABLE garn_har_farge (
+	garn INT,
+    farge INT,
+    PRIMARY KEY (garn, farge),
+    FOREIGN KEY (garn) REFERENCES garn (id),
+    FOREIGN KEY (farge) REFERENCES farge (nummer)
 );
