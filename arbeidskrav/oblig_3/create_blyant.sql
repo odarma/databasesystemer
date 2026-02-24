@@ -55,10 +55,22 @@ CREATE TABLE blyant (
     brukernivaa VARCHAR(45),
     hardhet VARCHAR(45),
     farge_id INT,
-    bruksomraade_id INT,
     type_id INT,
     PRIMARY KEY (id),
     FOREIGN KEY (farge_id) REFERENCES farge (id),
-    FOREIGN KEY (bruksomraade_id) REFERENCES bruksomraade (id),
     FOREIGN KEY (type_id) REFERENCES type (id)
+);
+
+CREATE TABLE blyant_bruksomraade (
+    blyant_id INT NOT NULL,
+    bruksomraade_id INT NOT NULL,
+    PRIMARY KEY (blyant_id, bruksomraade_id),
+    CONSTRAINT fk_blyant_id 
+        FOREIGN KEY (blyant_id) REFERENCES blyant(id) 
+        ON UPDATE CASCADE 
+        ON DELETE CASCADE,
+    CONSTRAINT fk_bruksomraade_id 
+        FOREIGN KEY (bruksomraade_id) REFERENCES bruksomraade(id) 
+        ON UPDATE CASCADE 
+        ON DELETE CASCADE
 );
