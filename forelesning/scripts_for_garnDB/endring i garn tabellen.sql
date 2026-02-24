@@ -1,0 +1,33 @@
+ALTER TABLE garn
+ADD COLUMN pris DECIMAL(10,2);
+
+UPDATE garn SET pris = 79  WHERE id = 1;
+UPDATE garn SET pris = 69  WHERE id = 2;
+UPDATE garn SET pris = 89  WHERE id = 3;
+UPDATE garn SET pris = 85  WHERE id = 4;
+UPDATE garn SET pris = 159 WHERE id = 5;
+UPDATE garn SET pris = 74  WHERE id = 6;
+UPDATE garn SET pris = 72  WHERE id = 7;
+UPDATE garn SET pris = 78  WHERE id = 8;
+UPDATE garn SET pris = 82  WHERE id = 9;
+UPDATE garn SET pris = 65  WHERE id = 10;
+UPDATE garn SET pris = 109 WHERE id = 11;
+UPDATE garn SET pris = 95  WHERE id = 12;
+UPDATE garn SET pris = 199 WHERE id = 13;
+UPDATE garn SET pris = 84  WHERE id = 14;
+UPDATE garn SET pris = 88  WHERE id = 15;
+UPDATE garn SET pris = 92  WHERE id = 16;
+UPDATE garn SET pris = 99  WHERE id = 17;
+UPDATE garn SET pris = 59  WHERE id = 18;
+UPDATE garn SET pris = 97  WHERE id = 19;
+UPDATE garn SET pris = 49  WHERE id = 20;
+UPDATE garn SET pris = 115 WHERE id = 21;
+UPDATE garn SET pris = 98  WHERE id = 22;
+UPDATE garn SET pris = 109 WHERE id = 23;
+UPDATE garn SET pris = 112 WHERE id = 24;
+UPDATE garn SET pris = 105 WHERE id = 25;
+UPDATE garn SET pris = 119 WHERE id = 26;
+UPDATE garn SET pris = 129 WHERE id = 27;
+UPDATE garn SET pris = 135 WHERE id = 28;
+UPDATE garn SET pris = 101 WHERE id = 29;
+UPDATE garn SET pris = 139 WHERE id = 30;
