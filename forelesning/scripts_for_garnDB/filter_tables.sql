@@ -1,4 +1,5 @@
 -- select * from garn where lopelengde>200 order by lopelengde;
+-- 23.02
 use garn;
 -- oppgave 1
 select garn.produsent_id,produsent.navn as produsent_navn,garn.navn as garn_navn, pris as orginal_pris, pris*1.1 as justert_pris 
