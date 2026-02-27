@@ -1,3 +1,4 @@
+drop database arbeidskrav;
 create schema if not exists `arbeidskrav` default character set utf8 collate utf8_bin;
 use arbeidskrav;
 
