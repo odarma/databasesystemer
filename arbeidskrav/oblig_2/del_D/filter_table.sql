@@ -63,22 +63,37 @@ from innleggelser i inner join leger l on leger_id = l.id where l.fornavn like "
 and diagnose like "Epilepsy";
 
 -- oppgave 13
-
+select id, concat(id,length(etternavn),year(fodseldag)) as 'midlertidig passord' from pasienter;
 
 -- oppgave 14
-
+select id, 
+case 
+when mod(id,2)=0 then 'ja'
+else 'nei'
+end as 'har forsikring', 
+case 
+when mod(id,2)=0 then 100
+else 500
+end as 'kostnad (kr)'
+from pasienter;
 
 -- oppgave 15
-
+select pr.navn as provins from provins pr inner join pasienter pa on provins_id=pr.id 
+group by provins having 
+(select count(kjonn) from pasienter where kjonn='M')>(select count(kjonn) from pasienter where kjonn='F');
 
 -- oppgave 16
-
+select p.* from pasienter p 
+where fornavn like "__r%" and kjonn="F" and month(fodseldag) in (2,5,12) and
+vekt between 60 and 80 and mod(p.id,2)>0 and sted="Hamilton";
 
 -- oppgave 17
-
+select round(sum(case when kjonn = "M" then 1 else 0 end)*100 / count(*),0) as prosent
+from pasienter;
 
 -- oppgave 18
-
+select count(innleggelsesdato) as antall_innleggelser_nå, (select innleggelsesdato from innleggelser
+where day(innleggelsesdato)=-1) as antall_innleggelser_dagen_før from innleggelser i;
 
 -- oppgave 19
 
