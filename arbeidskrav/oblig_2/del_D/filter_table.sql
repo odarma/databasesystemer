@@ -47,13 +47,13 @@ select
     count(id) as antall
 from pasienter
 group by vektgruppe
-order by min(vekt) desc; -- sortere etter minstevekt for hver vektgruppe
+order by min(vekt) desc; -- sortere etter minstevekt fra hver vektgruppe
 
 -- oppgave 11
 select id, vekt, hoyde, 
 case
-when vekt/power(hoyde/100,2) >= 30 then '1'
-else '0' 
+	when vekt/power(hoyde/100,2) >= 30 then '1'
+	else '0' 
 end as erOvervektig 
 from pasienter;
 
@@ -68,12 +68,12 @@ select id, concat(id,length(etternavn),year(fodseldag)) as 'midlertidig passord'
 -- oppgave 14
 select id, 
 case 
-when mod(id,2)=0 then 'ja'
-else 'nei'
+	when mod(id,2)=0 then 'ja'
+	else 'nei'
 end as 'har forsikring', 
 case 
-when mod(id,2)=0 then 100
-else 500
+	when mod(id,2)=0 then 100
+	else 500
 end as 'kostnad (kr)'
 from pasienter;
 
@@ -88,14 +88,25 @@ where fornavn like "__r%" and kjonn="F" and month(fodseldag) in (2,5,12) and
 vekt between 60 and 80 and mod(p.id,2)>0 and sted="Hamilton";
 
 -- oppgave 17
-select round(sum(case when kjonn = "M" then 1 else 0 end)*100 / count(*),0) as prosent
-from pasienter;
+select round(sum(case when kjonn = "M" then 1 else 0 end)*100 / count(*),0) as prosent from pasienter;
 
 -- oppgave 18
-select count(innleggelsesdato) as antall_innleggelser_nå, (select innleggelsesdato from innleggelser
-where day(innleggelsesdato)=-1) as antall_innleggelser_dagen_før from innleggelser i;
+select innleggelsesdato, count(*) as antall_innleggelser,  
+count(*) - lag(count(*)) over(order by innleggelsesdato) as endring_fra_dagen_før
+from innleggelser group by innleggelsesdato order by innleggelsesdato asc;
+-- lag() henter verdien fra forrige rad, 
+-- over(order by innleggelsesdato) ser på at forrige rad er dagen før istedenfor tilfeldig dato, før utregning
 
 -- oppgave 19
-
-
+select navn from provins order by 
+case 
+	when navn="Ontario" then 1
+    else 2
+end asc;
+select year(innleggelsesdato) from innleggelser;
 -- oppgave 20
+select leger_id, concat(fornavn,' ',etternavn) as fullt_navn, spesialitet, year(innleggelsesdato) as år, 
+count(i.id) as antall_innleggelser 
+from innleggelser i inner join leger l on leger_id = l.id 
+group by l.id, l.fornavn, l.etternavn, spesialitet,år 
+order by fullt_navn, spesialitet,år asc;
