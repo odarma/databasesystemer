@@ -16,3 +16,9 @@ CREATE INDEX idx_etternavn ON Kunde(Etternavn);
 
 -- Alternativ 2: Ved å bruke ALTER TABLE
 ALTER TABLE Kunde ADD INDEX idx_telefon (Telefon);
+
+start transaction;
+insert into provins (id,navn) values ('NK','Ne Ko');
+update provins set navn = 'New Knot' where id = 'NK';
+rollback;
+delete from provins where id = 'NK';
