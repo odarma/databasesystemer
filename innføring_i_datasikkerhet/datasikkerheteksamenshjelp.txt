@@ -1,0 +1,178 @@
+Hvilke egenskaper skiller typisk hackere/svindlere fra hverandre?
+Hva er vanlige motiv for digital kriminalitet?
+Hva skiller digital kriminalitet fra tradisjonell kriminalitet?
+Hvorfor hører man lite om utpressing og utpressingsforsøk?
+Lag en definisjon på hva sosial manipulasjon er
+Hvordan tenker bedrifter når de skal vurdere om de skal innføre et sikkerhetstiltak eller ikke?
+Trekk frem ulike årsaker til at et system ikke er ås sikkert som vi skulle ønske.
+Hva menes med tilgang når man kategoriserer angripere?
+Hva menes med at brukerne (ofte) er de svake leddet i dagens datasikkerhet?
+Hva er den opprinnelige betydningen av ordet hacker?  Hvorfor bruker vi ordet annerledes i dag?
+Hva menes med en angripers risikovilje?
+Hvorfor har endringene i motivasjonen og tilgangen på verktøy gjort privatpersoner så mye mer utsatt i dag enn tidligere?
+Hva menes med påstanden om at før måtte ofte to ulike parter finne hverandre for å utgjøre en trussel, mens i dag kan én part selv stå for hele angrepet.
+Hva er en hacktivist, og hva gjør denne gruppen spesiell?
+Hva er en innsider (insider)? Hva gjør denne gruppen så spesiell?
+Hvorfor er vi som nasjon så sårbare for cyber-terrorisme og hybrid krigføring?
+Hva menes med et komplekst trusselbilde?
+Hva menes med illusjonen av sikkerhet?
+Gi eksempler på at sikkerhetstjenesten tilgjengelig kan være like kritisk som konfidensialitet eller integritet.
+Hva menes med at sikkerhet ikke er et produkt, men en prosess?
+Hvorfor er det viktig å forstå forskjellen på enhet og system når man skal tenke sikkerhet?
+Hvorfor er sosial manipulasjon så mye benyttet i cyberkriminalitet?
+Hva kan sosial manipulasjon benyttes for å oppnå? Svar veldig generelt, men vis forskjellige vinklinger (For eksempel et ord eller to per vinkling)
+Gi noen enkle eksempler på sosial manipulasjon.
+Beskriv i veldig generelle trekk hvorfor mennesker er så lette å manipulere?
+Hvorfor er ikke intelligens en god nok beskyttelse mot sosial manipulasjon? Hvilke egenskaper fungerer bedre for å beskytte seg?
+Nevn noen generelle prinsipper for sosial manipulasjon (f.eks. basert på Robert Cialdini).
+Hva er forskjellen på svindel og hacking? Begrunn svaret ditt.
+Diskuter hvordan generativ AI kan benyttes for å utforme phishing meldinger.
+Diskuter hvordan stemmekloning med AI kan være effektivt for sosial manipulasjon?
+Diskuter hvordan deep fakes med AI kan være effektivt for sosial manipulasjon?
+Hva betyr begrepet spear phishing?
+Hva kan anses som relevant informasjon om en målperson for å benytte i en svindel? Lag en punktliste med noen varierte forslag.
+Drøft hvordan en svindler kan få tak i svindelrelevant informasjon om en målperson ("passive teknikker").
+Drøft hvilke “aktive teknikker” en svindler kan benytte for å innhente svindelrelevant informasjon om en målperson.
+Forklar begrepet reverse social engineering.
+Drøft hvorfor sosiale medier er så lukrative plattformer for svindler.
+Beskriv generelle teknikker for å oppnå tilgang til/bryte seg inn i en brukerkonto.
+Beskriv forskjellige egenskaper som kjennetegner et dårlig passord. Begrunn hvorfor.
+Gi noen tips til hvordan man kan lage gode passord.
+Drøft hvordan muligheter brukeren har for å gjenopprette tilgang til en bruker de har glemt passordet for kan være et sikkerhetsproblem.
+Drøft hvorfor tjenester alltid bør hashe passordene de lagrer. 
+Forklar overordnet hvordan tjenester typisk håndterer passordhashing ved opprettelse av bruker og ved videre autentisering.
+Drøft hvordan et hashet passord kan "knekkes".
+Forklar begrepet Multi-factor autentisering og hvorfor dette reduserer sannsynligheten for å bli kontokapret.
+Hva er forskjellen på HTTP og HTTPS?
+Hvorfor er ikke HTTPS en god nok indikator på om et nettsted er legitimt og sikkert?
+Hva er en session i forbindelse med cookies/informasjonskapsler?
+Hva er session highjacking og hvordan kan svindlere/hackere utføre dette?
+Hvilke strategier kan brukere og tjenesteleverandører benytte for å redusere sannsynligheten for session highjacking?
+Beskriv i overordnede steg hvordan en session blir opprettet i en tjeneste.
+Drøft hva som gjør funksjonalitet for brukerinput spesielt utsatt for hackerangrep sammenlignet med annen funksjonalitet.
+Forklar begrepene whitelisting og blacklisting i kontekst av brukerinput. Drøft fordeler og ulemper med hver av disse.
+Drøft hvorfor client-side validering alene ikke er godt nok for å sikre mot angrep basert på brukerinput og drøft hva som i tillegg må til oppnå god sikkerhet i denne konteksten.
+Hvilke generelle angrepsteknikker er relevante for brukerinput. Det holder med å nevne enkeltbegreper.
+Forklar parametermanipulasjon i forbindelse med URL-er.
+Hva kan brukere og tjenesteleverandører gjøre for å redusere sannsynligheten for angrep basert på parameter-manipulasjon?
+Forklar begrepet SQL-Injection.
+Hva kan brukere og tjenesteleverandører gjøre for å redusere sannsynligheten for angrep basert på SQL-Injection?
+Forklar begrepet Command Injection.
+Forklar begrepet Prompt Injection.
+Hva kan brukere og tjenesteleverandører gjøre for å redusere sannsynligheten for angrep basert på Command Injection?
+Forklar begrepet Cross-Site-Scripting (XSS).
+Hva kan brukere og tjenesteleverandører gjøre for å redusere sannsynligheten for angrep basert på Cross-Site-Scripting (XSS)?
+Forklar begrepet Webtrojaner (egentlig Cross-Site Request Forgery)
+Drøft hvordan en skjermlås på PC kan omgås.
+Drøft hvofor vi ikke kan stole på USB-enheter, selv de som ser trygge ut (f.eks en minnepenn).
+Forklar hva en Rubber Ducky er.
+Forklar begrepet Podslurping.
+Forklar hva en keylogger er. Kan det finnes flere typer keyloggere? Hvilke?
+Hvorfor er Remote Desktop verktøy potensielt skumle?
+Drøft hvilke trusler som kan medfølge ved å installere programvare på en PC.
+Drøft hvorfor det er viktig å holde operativsystemer, programvare og drivere oppdatert.
+Forklar begrepet Portscanning i overordnet forstand.
+Forklar begrepet Elevation of Privileges (også kalt Privileges Escalation).
+Hvilke typer farer kan backups beskytte mot? Gi eksempler.
+Hvorfor er det viktig å ha minst like god sikkerhet på backups som originaldata? Drøft gjerne overordnet hva man kan/bør gjøre for å sikre slike backups.
+Forklar overordnet hvorfor det er vanskelig å slette data fra lagringsmedier.
+Hva kan man gjøre for å sørge for at data på lagringsmedier faktisk blir slettet?
+Forklar hva metadata er. Gi gjerne noen eksempler på typer metadata. Hvorfor kan slike metadata være problematiske? 
+Diskuter hvorfor IoT-enheter kan være en stor sikkerhetstrussel for enkeltpersoner og bedrifter. Her finnes det mange vinklinger.
+Forklar sikkerhetsmekanismene som argumenterbart gjør mobilapplikasjoner sikrere en PC-applikasjoner. Hva er likevel svakhenten ved disse sikkerhetsmekanismene?
+Diskuter hvordan en hacker kan overvåke brukere gjennom en mobiltelefon. Her er det flere ting som kan nevnes.
+Forklar begrepet pakkesniffing. 
+Drøft forskjellige måter hackere kan få muligheten til å gjennomføre pakkesniffing. 
+Når enheter benytter "husk meg" funksjonalitet for trådløse nett er det hovedsakelig nettverksnavnet (SSID) som benyttes for å gjenkjenne nettet. Hvordan kan dette missbrukes av hackere?
+Forklar begrepet falsk basestasjon i forbindelse med trådløst nett. Hvordan kan slike falske basestasjoner være en trussel for brukere?
+Hva er en "splitter" i forbindelse med kablet nett?
+Hva er en VPN og hva kan dette beskytte mot? Nevn gjerne også noen eksempler på hva VPN IKKE kan beskytte mot. 
+Forklar overordnet hva DNS-manipulasjon er og hvorfor dette er en trussel for brukere.
+Forklar overordnet hvordan en brannmur fungerer.
+Drøft eventuelle svakheter ved brannmurer (Dette er ikke ment som en teknisk orientert oppgave).
+Hva er en Demilitarisert sone (DMZ) i forbindelse med nettverksdrift?
+Hvorfor er det ikke mulig å lage en komplett beskyttelse mot skadevare?
+Hvilke deler består en skadevare av?
+Hva menes med manuell skadevare / skadevare drevet av sosial manipulasjon, og hvorfor er dette effektivt i dag?
+Hvilke deler av en skadevare kan erstattes med sosial manipulasjon?
+Hva er hoax?
+Hvorfor/hvordan kan hoax utgjøre en sikkerhetstrussel - gi eksempler?
+Gjør en gjennomgang av ulike typer skadevare, og hva som "kjennetegner" hver type
+Hvordan kan det tenkes at skadevare endrer seg i fremtiden?
+Gjør en gjennomgang av ulike typer nyttelast
+Hvorfor er skadevare et stadig viktigere tema? (økende problem)
+Hvorfor er brukerens handlinger avgjørende for hvor lett man får skadevare (her er det mange ulike svar)
+Hva er makrovirus, og hva gjør dette spesielt?
+Gjør en gjennomgang av ulike stealth-teknikker (kamuflasje) som skadevare benytter.
+Gjør en gjennomgang av ulike sprednings-teknikker som skadevare benytter (se på generelle typer, ikke spesifikke eksempler)
+Hvordan kan man få skadevare (her er det mange ulike svar - se på generelle kategorier, ikke spesifikke eksempler)
+Hva skiller virus fra ormer?
+Hva gjør trojanere spesielt? 
+Hva er et root kit, og hvilke konsekvenser kan dette få?
+Hva er hardware-malware, og hva gjør dette spesielt?
+Er det bare tradisjonelle datamaskiner som er utsatt for skadevare?  Utdyp.
+Hva gjør mobile enheter spesielt i forhold til skadevare?
+Hva gjør IoT-enheter spesielt i forhold til skadevare?
+Gjør en gjennomgang av ulike hovedmetoder for å oppdage skadevare.
+Hva kan gjøre fjerning av skadevare utfordrende?
+Hvorfor er det ikke slik at all skadevare som kan oppdages også kan fjernes?
+Hva skiller ulike anitivirusverktøy? Er alle like effektive?
+Hva avgjør hvor effektivt et antivirusverktøy er?
+Er manuell deteksjon (altså vi selv oppdager skadevaren) en god teknikk? hvorfor/hvorfor ikke?
+Hvorfor bør man være skeptisk til verktøy for fjerning av enkeltskadevarer?
+Drøft etisk skadevare - hva er det og når er det "greit"?
+Hva er et botnett? 
+Hvilke hensikter har ofte botnett?
+Forklar hvorfor desinformasjon og påvirkningskampanjer er en del av temaet "datasikkerhet"
+Drøft hvordan "andres datasikkerhet" kan påvirke deg. Her er det mange svar, og mye av pensum passer. Gi noen konkrete eksmepler i tilegg til den generelle drøftingen
+Hva menes med mykt makt?
+Hvorfor er man i dagens samfunn så utsatt for påvirkningskampanjer (her er det mange svar)
+Hva innebærer det at et innlegg vi liker, deler eller kommenterer endrer seg i ettertid? Drøft eksempler på utfordringer og situasjoner.
+Hva menes med "svindler fra "venner"
+Hva kan din offentlig informasjon benyttes til (hensikter som ikke var tiltenkt)
+Hvorfor er sosiale medier en så foretrukket kanal for svindlere? (her er det mange svar)
+Gjør rede for bedrifters holdninger og prioriteringer med tanke på sikkerhet?
+Hva gjør området sikkerhet så spesielt innen bedrifter (her er det mange svar)
+Hva menes med påstanden "både god og dårlig sikkerhet har en kostnad"
+Forklar kort hvilke typer kostnader
+Gjør rede for preventiv sikkerhet i forhold til skadesanering og deteksjon i bedriftssammenheng (med fokus på "dagens trusselbilde")
+Hva er informasjonssikkerhet?
+Hva skiller informasjonssikkerhet fra datasikekrhet?
+Hvilke områder innebærer informasjonssikkerhet?
+Hva er risiko?
+Hva er en risikoanalyse?
+Hvilke gevinster gir en risikoanalyse?
+Hvordan gjennomføres en risikoanalyse (overordnet)
+Hvorfor er risiko og risikoforståelse innen datasikkerhet så vanskelig?
+Hvilke to typer standarder (altså hovedgrupper/kategorier) finnes innen it-sikkerhet
+Hva inneholder (overordnet) ISO 27000-serien
+Hvorfor er det nyttig å følge standarder?
+Drøft innsidetrusselen (her er det også nyttig å se på slide runder motivasjon osv. vi startet emnet med)
+Hvilke tre parter snakker man om i forbindelse med datasikkerhet?
+Hvilke av disse berører personopplysningsloven?
+Hvordan påvirker personopplysningsloven bedrifters sikkerhetsarbeid? (her er det mange punkter som bør med)
+Hva er et behandlingsgrunnlag?
+Nevn noen viktige prinsipper i GDPR
+Hvilke rettigheter får brukerne?
+Gi en kort oppsummering av hva som kreves av et samtykke
+Hvorfor er personopplysningsloven mindre effektiv en den burde vært (her er det mange punkter som bør med)
+Hva er et personvernombud og hvilke arbeidsoppgaver har dette?
+Hva er det juridiske konsekvensene for en bedrift av å ikke følge personopplysningsloven?
+*Hva er forholdet mellom personopplysningsloven og GDPR?
+Forklar security attacks, services og mechanisms - Hva er hver av de og hva er sammenhengen?
+Hvilke sikkerhetstjenester (security services) finnes - forklar veldig kort hver av de.
+Hva er KIT og hvorfor er dette begrepet så interessant?
+Hvilke hovedgrupper av security attacks finnes - forklar veldig kort hver av de.
+Passer alle angrep inn i disse hovedgruppene?
+Hva er passive og aktive angrep?
+Hva er tilgangskontroll(/autorisering) i forhold til autentisering?
+Hva er ikke-benekting (nonrepudiation)?
+Finnes det helt sikre krypteringer?
+Hva påvirker sikkerheten til en kryptering? (altså hvor lang tid det tar å knekke - tenk både ting avsender kan gjøre og ting angriper "kan gjøre")
+Hvordan fungerer asymetrisk krypterign (overordnet, ikke matematikken)
+Hvordan kan asymetrisk kyptering benyttes til signering? Hvordan gjøres dette mer effektivt?
+Hvordan bruker f.eks. HTTPS kryptering? (Symetrisk eller asymetrisk osv..)
+Hvordan foregår kryptering med bitmasker? Er en såpass enkel kryptering sikker?
+Hva er forskjellen og likheten på symmetrisk og asymmetrisk kryptering? Hva er styrken og svakheten ved hver av de?
+Hvilke risikoer er knyttet til kryptering og håndtering av kryptert data?
+Hvilke ulike måter er det for å knekke kryptert data?
