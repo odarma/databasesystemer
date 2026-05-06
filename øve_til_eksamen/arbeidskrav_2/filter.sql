@@ -80,6 +80,45 @@ from innleggelser i1 group by innleggelsesdato order by innleggelsesdato asc;
 -- lag() henter verdien fra forrige rad, 
 -- over(order by innleggelsesdato) ser på at forrige rad er dagen før istedenfor tilfeldig dato
 
+-- ny tabell: 
+CREATE TABLE Kunde (
+KNr INT,
+Fornavn VARCHAR(20),
+Etternavn VARCHAR(30), 
+Telefon VARCHAR(16),
+PRIMARY KEY (KNr),
+INDEX idx_etternavn (Etternavn)
+);
+-- endre eksisterende tabell:
+ALTER TABLE Kunde ADD PRIMARY KEY (KNr);
+/*alternativ 1:*/ CREATE INDEX idx_etternavn ON Kunde(Etternavn);
+/*alternativ 2:*/ ALTER TABLE Kunde ADD INDEX idx_telefon (Telefon);
+
+start transaction;
+insert into provins (id,navn) values ('NK','Ne Ko');
+update provins set navn = 'New Knot' where id = 'NK';
+rollback;-- eller commit; 
+
+create role administrator;
+create role utvikler;
+create role bruker;
+
+create user 'DBA'@'localhost' identified by 'dba';
+create user 'dev'@'localhost' identified by 'dev';
+create user 'user'@'%' identified by 'user';
+
+grant all privileges on app.* to 'administrator';
+grant 'administrator' to 'DBA'@'localhost';
+set default role 'administrator' to 'DBA'@'localhost';
+
+grant select, insert, update on app.* to utvikler;
+grant 'utvikler' to 'dev'@'localhost';
+set default role 'utvikler' to 'dev'@'localhost';
+
+grant select, insert, update on app.bestilling to bruker;
+grant select, insert, update on app.profil to bruker;
+grant 'bruker' to 'user'@'%';
+
 
 /* rekkefølge av spørringer: 
 SELECT Hvilke kolonner skal med?
